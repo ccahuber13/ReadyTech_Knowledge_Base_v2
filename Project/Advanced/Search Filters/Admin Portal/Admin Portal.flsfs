@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet fileTags="File Tags/Product.Admin&#160;Portal" conditions="Default.Admin Portal">
+    <SearchFilter Name="Events" Order="0" Concepts="Events">
+    </SearchFilter>
+</CatapultSearchFilterSet>

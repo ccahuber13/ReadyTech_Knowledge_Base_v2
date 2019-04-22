@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet fileTags="File Tags/Product.Instructor-Led&#160;Portal,File Tags/Product.ClassManager,File Tags/Product.SaaS&#160;Labs,File Tags/Product.HyperView" conditions="Default.Instructor-Led&#160;Portal">
+    <Variable Comment="" Name="CompanyName">MadCap Software</Variable>
+    <Variable Comment="" Name="PhoneNumber">858 123 4567</Variable>
+</CatapultVariableSet>

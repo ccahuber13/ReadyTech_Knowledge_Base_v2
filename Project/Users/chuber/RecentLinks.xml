@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\ReadyTech\Knowledge_Base\testing\TestingKB\Content\Topic.htm" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\ReadyTech\Knowledge_Base\testing\ReadyTech_Knowledge_Base_Dev\Content\resources\snippets\topic_template.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage" />
+</RecentLinks>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet
+  Type="Catagory"
+  Comment="My set of author tags">
+  <FileTag
+    Name="Troubleshooting"
+    Comment="" />
+  <FileTag
+    Comment=""
+    Name="FAQ" />
+  <FileTag
+    Name="KB Landing Page"
+    Comment="" />
+  <FileTag
+    Name="Resources"
+    Comment="" />
+</CatapultFileTagSet>

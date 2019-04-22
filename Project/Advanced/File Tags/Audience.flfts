@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet
+  Type="Audience"
+  Comment="My set of author tags">
+  <FileTag
+    Name="Instructors"
+    Comment="Instructor content" />
+  <FileTag
+    Name="Students"
+    Comment="Student content" />
+  <FileTag
+    Name="Support"
+    Comment="ReadyTech support team content" />
+</CatapultFileTagSet>

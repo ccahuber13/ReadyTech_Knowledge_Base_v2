@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Admin Portal"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  fileTags="File Tags/Product.Admin Portal,File Tags/Audience.Students"
+  ConditionTagExpression="include[Default.Content Students]exclude[&quot;Default.Content Instructors&quot; or Default.Content Managers]"
+  TopNavTocPath="true"
+  MakeFileLowerCase="true"
+  MasterPage="/Content/Resources/master_pages/home.flmsp"
+  MasterToc="/Project/TOCs/Admin Portal/Admin Portal.fltoc"
+  conditions="Default.Admin Portal">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///C:/ReadyTech/Knowledge_Base/testing/ReadyTech_Knowledge_Base_Dev/Output/chuber/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts>
+    <ConceptEntry
+      Term="Admin Portal">
+      <ConceptLink
+        Link="kb_admin_portal/admin_portal_home.htm"
+        UsedConditions="Default.KB Admin Portal"
+        LocalConditions="" />
+      <ConceptLink
+        Link="kb_admin_portal/topics/events/creating_events.htm"
+        UsedConditions="Default.KB Admin Portal"
+        LocalConditions="" />
+      <ConceptLink
+        Link="kb_admin_portal/topics/events/_events.htm"
+        UsedConditions="Default.KB Admin Portal"
+        LocalConditions="" />
+      <ConceptLink
+        Link="kb_admin_portal/topics/policies/cancellation_policies.htm"
+        UsedConditions="Default.KB Admin Portal"
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="ClassManager">
+      <ConceptLink
+        Link="kb_instructor_led_portal/instructor_led_portal_home.htm"
+        UsedConditions="Default.KB Instructor-Led Portal"
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Events">
+      <ConceptLink
+        Link="kb_admin_portal/topics/events/creating_events.htm"
+        UsedConditions="Default.KB Admin Portal"
+        LocalConditions="" />
+      <ConceptLink
+        Link="kb_admin_portal/topics/events/creating_events.htm"
+        UsedConditions="Default.KB Admin Portal"
+        LocalConditions="" />
+      <ConceptLink
+        Link="kb_admin_portal/topics/events/_events.htm"
+        UsedConditions="Default.KB Admin Portal"
+        LocalConditions="" />
+      <ConceptLink
+        Link="kb_admin_portal/topics/policies/cancellation_policies.htm"
+        UsedConditions="Default.KB Admin Portal"
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="Instructor-Led Portal">
+      <ConceptLink
+        Link="kb_instructor_led_portal/instructor_led_portal_home.htm"
+        UsedConditions="Default.KB Instructor-Led Portal"
+        LocalConditions="" />
+    </ConceptEntry>
+    <ConceptEntry
+      Term="SaaS Labs">
+      <ConceptLink
+        Link="kb_instructor_led_portal/instructor_led_portal_home.htm"
+        UsedConditions="Default.KB Instructor-Led Portal"
+        LocalConditions="" />
+    </ConceptEntry>
+  </Concepts>
+  <SourceUrls>
+    <Url
+      Source="downloads.htm" />
+    <Url
+      Source="help.htm" />
+    <Url
+      Source="Home.htm" />
+    <Url
+      Source="kb_admin_portal/admin_portal_home.htm" />
+    <Url
+      Source="kb_admin_portal/topics/events/creating_events.htm" />
+    <Url
+      Source="kb_admin_portal/topics/events/_events.htm" />
+    <Url
+      Source="kb_admin_portal/topics/policies/cancellation_policies.htm" />
+    <Url
+      Source="kb_instructor_led_portal/instructor_led_portal_home.htm" />
+    <Url
+      Source="resources/css/home_page.css" />
+    <Url
+      Source="resources/css/landing_page.css" />
+    <Url
+      Source="resources/css/modern.css" />
+    <Url
+      Source="resources/css/search_page.css" />
+    <Url
+      Source="resources/css/styles.css" />
+    <Url
+      Source="resources/css/topic_page.css" />
+    <Url
+      Source="resources/images/logo/logo.htm" />
+    <Url
+      Source="resources/images/logo/rt_logo_white.png" />
+    <Url
+      Source="resources/images/logo/rt_logo_white_hor.svg" />
+    <Url
+      Source="resources/master_pages/home.flmsp" />
+    <Url
+      Source="resources/master_pages/landing.flmsp" />
+    <Url
+      Source="resources/master_pages/topics.flmsp" />
+    <Url
+      Source="resources/snippets/topic_template.flsnp" />
+  </SourceUrls>
+  <UsedUrls>
+    <Url
+      Source="kb_instructor_led_portal/instructor_led_portal_home.htm"
+      Terms="Instructor-Led Portal | Default.KB Instructor-Led Portal |  [9];ClassManager | Default.KB Instructor-Led Portal |  [10];SaaS Labs | Default.KB Instructor-Led Portal |  [11]" />
+    <Url
+      Source="kb_admin_portal/admin_portal_home.htm"
+      Terms="Admin Portal | Default.KB Admin Portal |  [9]" />
+    <Url
+      Source="kb_admin_portal/topics/events/creating_events.htm"
+      Terms="Events | Default.KB Admin Portal |  [6];Admin Portal | Default.KB Admin Portal |  [10];Events | Default.KB Admin Portal |  [11]" />
+    <Url
+      Source="kb_admin_portal/topics/events/_events.htm"
+      Terms="Admin Portal | Default.KB Admin Portal |  [9];Events | Default.KB Admin Portal |  [10]" />
+    <Url
+      Source="kb_admin_portal/topics/policies/cancellation_policies.htm"
+      Terms="Events | Default.KB Admin Portal |  [6];Admin Portal | Default.KB Admin Portal |  [10]" />
+  </UsedUrls>
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>

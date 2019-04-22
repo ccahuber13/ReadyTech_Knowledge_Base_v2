@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="ReadyTech Corp.">ReadyTech Corp.</Variable>
+  <Variable
+    Comment="Americas support number"
+    Name="Phone-USSupportNum"
+    EvaluatedDefinition="+1 510.834.3344">+1 510.834.3344</Variable>
+  <Variable
+    Name="Phone-USTollFreeNum"
+    Comment=""
+    EvaluatedDefinition="+1 800.707.1009">+1 800.707.1009</Variable>
+  <Variable
+    Name="APACSupportNum"
+    Comment=""
+    EvaluatedDefinition="+61 291.916448">+61 291.916448</Variable>
+  <Variable
+    Name="Phone-EMEASupportNum"
+    Comment=""
+    EvaluatedDefinition="+31 858.880632">+31 858.880632</Variable>
+  <Variable
+    Name="Prod-Instructor-Led Portal"
+    Comment=""
+    EvaluatedDefinition="Instructor-Led Portal">Instructor-Led Portal</Variable>
+  <Variable
+    Name="Prod-Self-Paced Portal"
+    Comment=""
+    EvaluatedDefinition="Self-Paced Portal">Self-Paced Portal</Variable>
+  <Variable
+    Name="Prod-Admin Portal"
+    Comment=""
+    EvaluatedDefinition="Admin Portal">Admin Portal</Variable>
+  <Variable
+    Name="Prod-Axis"
+    Comment=""
+    EvaluatedDefinition="Axis">Axis</Variable>
+  <Variable
+    Name="Prod-ClassManager"
+    Comment=""
+    EvaluatedDefinition="ClassManager">ClassManager</Variable>
+  <Variable
+    Name="Prod-DeviceMapper"
+    Comment=""
+    EvaluatedDefinition="DeviceMapper">DeviceMapper</Variable>
+  <Variable
+    Name="Prod-HyperView"
+    Comment=""
+    EvaluatedDefinition="HyperView">HyperView</Variable>
+  <Variable
+    Name="Prod-LabManager"
+    Comment=""
+    EvaluatedDefinition="LabManager">LabManager</Variable>
+  <Variable
+    Name="Prod-LabTracker"
+    Comment=""
+    EvaluatedDefinition="LabTracker">LabTracker</Variable>
+  <Variable
+    Name="Prod-PortalHelper"
+    Comment=""
+    EvaluatedDefinition="PortalHelper">PortalHelper</Variable>
+  <Variable
+    Name="Prod-Purchase Portal"
+    Comment=""
+    EvaluatedDefinition="Purchase Portal">Purchase Portal</Variable>
+  <Variable
+    Name="Prod-TMS"
+    Comment=""
+    EvaluatedDefinition="Training Management System (TMS)">Training Management System (TMS)</Variable>
+  <Variable
+    Name="Email-Support"
+    Comment=""
+    EvaluatedDefinition="get-support@readytech.com">get-support@readytech.com</Variable>
+  <Variable
+    Name="URL-ReadyTech.com"
+    Comment=""
+    EvaluatedDefinition="www.readytech.com">www.readytech.com</Variable>
+  <Variable
+    Name="kb-adminPortalTitle"
+    Comment=""
+    EvaluatedDefinition="Admin Portal Knowledge Base">Admin Portal Knowledge Base</Variable>
+  <Variable
+    Name="kb-instructorLedPortalTitle"
+    Comment=""
+    EvaluatedDefinition="Instructor-Led Portal Knowledge Base">Instructor-Led Portal Knowledge Base</Variable>
+  <Variable
+    Name="kb-allTitle"
+    Comment=""
+    EvaluatedDefinition="ReadyTech Knowledge Base">ReadyTech Knowledge Base</Variable>
+</CatapultVariableSet>

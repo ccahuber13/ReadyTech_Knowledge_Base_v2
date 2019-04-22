@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="[%=global_var.kb-adminPortalTitle%]"
+  FileSearchable="true"
+  MasterPage="file:///C:/KB/ReadyTech_Knowledge_Base_Dev/Content/resources/master_pages/home.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="ReadyTech Admin Portal Knowledge Base.">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/resources/master_pages/home.flmsp" />
+    <Link
+      Url="Project/VariableSets/global_var.flvar" />
+    <Link
+      Url="Content/resources/css/styles.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/resources/master_pages/home.flmsp" />
+    <Link
+      Url="Project/VariableSets/global_var.flvar" />
+    <Link
+      Url="Content/resources/css/styles.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Admin Portal"
+      Conditions="Default.Admin Portal"
+      LocalConditions=""
+      Position="9" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="global_var.kb-adminPortalTitle" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.Admin Portal" />
+  </FileConditions>
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.product_landing_page" />
+    <Tag
+      Name="File Tags/Product.Admin Portal" />
+  </FileTags>
+  <AllConditions>
+    <Condition
+      Tag="Default.Admin Portal" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/resources/css/styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

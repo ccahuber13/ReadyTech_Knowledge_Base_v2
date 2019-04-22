@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet fileTags="File Tags/Product.Instructor-Led&#160;Portal,File Tags/Product.ClassManager,File Tags/Product.SaaS&#160;Labs" conditions="Default.Instructor-Led&#160;Portal">
+    <SearchFilter Name="ClassManager" Order="0" Concepts="ClassManager">
+    </SearchFilter>
+    <SearchFilter Name="SaaS Labs" Comment="" Order="2" Concepts="SaaS Labs" />
+    <SearchFilter Name="Instructor-Led&#160;Portal" Comment="" Order="1" Concepts="Instructor-Led Portal" />
+</CatapultSearchFilterSet>

@@ -1,0 +1,1 @@
+define({'/Content/kb_admin_portal/topics/events/_events.htm':{i:[0],t:['Events'],b:['']},'/Content/kb_admin_portal/topics/events/creating_events.htm':{i:[1],t:['Creating events'],b:['']},'/Content/kb_admin_portal/topics/policies/cancellation_policies.htm':{i:[2],t:['Cancellation policies'],b:['']}});

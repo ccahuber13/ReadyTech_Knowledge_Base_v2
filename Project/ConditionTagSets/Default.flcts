@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Name="Content Instructors"
+    Comment="Written content for instructors"
+    BackgroundColor="#0064b3" />
+  <ConditionTag
+    BackgroundColor="#85c9ff"
+    Name="Content Students"
+    Comment="Written content for students" />
+  <ConditionTag
+    BackgroundColor="#f9951d"
+    Name="Instructor-Led Portal"
+    Comment="Instructor-Led Portal Knowledge Base" />
+  <ConditionTag
+    BackgroundColor="#898989"
+    Name="Admin Portal"
+    Comment="Admin Portal Knowledge Base" />
+  <ConditionTag
+    BackgroundColor="#fffb00"
+    Name="Self-Paced Portal"
+    Comment="Self-Paced Portal Knowledge Base" />
+  <ConditionTag
+    BackgroundColor="#c700ff"
+    Name="LabManager"
+    Comment="LabManager Knowledge Base"
+    OriginalName="KB LabManager" />
+  <ConditionTag
+    BackgroundColor="#39ab96"
+    Name="Axis"
+    Comment="Axis Knowledge Base"
+    OriginalName="KB Axis" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="Master"
+    Comment="Landing Page for All Knowledge Bases"
+    OriginalName="KB All Landing Page" />
+  <ConditionTag
+    BackgroundColor="#00ff75"
+    Name="Print PDF"
+    Comment=""
+    OriginalName="Print PDF" />
+</CatapultConditionTagSet>

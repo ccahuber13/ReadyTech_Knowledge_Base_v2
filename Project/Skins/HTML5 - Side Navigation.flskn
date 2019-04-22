@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="HTML5 Side Navigation skin"
+  EnableResponsiveOutput="True"
+  AutoSyncTOC="true"
+  CommentsInTopic="false"
+  DisplayCommunitySearchResults="false">
+  <WebHelpOptions
+    NavigationPanePosition="Left"
+    OffCanvasMenuStyle="Accordion"
+    MainMenuPosition="Left"
+    EnableSticky="All" />
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="rt_logo_white.png">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</Resource>
+    </Resources>
+    <Styles>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('rt_logo_white.png')</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Main Page">
+        <Properties>
+          <Property
+            Name="PaddingTop">0rem</Property>
+          <Property
+            Name="PaddingBottom">0rem</Property>
+          <Property
+            Name="PaddingLeft">0rem</Property>
+          <Property
+            Name="PaddingRight">0rem</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Header">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#004276</Property>
+          <Property
+            Name="PaddingLeft">1rem</Property>
+          <Property
+            Name="PaddingRight">1rem</Property>
+          <Property
+            Name="PaddingTop">0.5rem</Property>
+          <Property
+            Name="PaddingBottom">0.5rem</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Bar">
+        <Properties>
+          <Property
+            Name="Order">2</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu">
+        <Properties>
+          <Property
+            Name="Order">3</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="Logo">
+            <Properties>
+              <Property
+                Name="AltText">ReadyTech Logo</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Navigation Panel Item">
+            <Classes>
+              <StyleClass
+                Name="Back">
+                <Properties>
+                  <Property
+                    Name="Label">Back</Property>
+                </Properties>
+              </StyleClass>
+            </Classes>
+          </Style>
+        </Styles>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+</CatapultSkin>

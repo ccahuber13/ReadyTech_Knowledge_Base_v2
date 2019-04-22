@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/kb_instructor_led_portal/instructor_led_portal_home.htm'],s:['ace'],p:[['and',0]]});

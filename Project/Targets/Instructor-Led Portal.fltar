@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Instructor-Led Portal Knowledge Base"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="marked"
+  fileTags="File Tags/Product.Admin Portal,File Tags/Product.Instructor-Led Portal"
+  ConditionTagExpression="include[Default.Instructor-Led Portal]"
+  TopNavTocPath="true"
+  MakeFileLowerCase="false"
+  MasterPage="/Content/Resources/master_pages/home.flmsp"
+  MasterToc="/Project/TOCs/Instructor-Led Portal/Instructor-Led Portal.fltoc"
+  DefaultUrl="/Content/Products/Instructor-Led-Portal/instructor_led_portal_home.htm"
+  UseEmptyAltText="true"
+  PartialWordSearch="true"
+  MinimumWordSize="3"
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
+  conditions="Default.Instructor-Led Portal"
+  IncludeMicroContentSearchResults="true"
+  IncludeGlossarySearchResults="true"
+  EnableSitemap="false"
+  ExcludeUnreferencedContent="true"
+  SearchFilterSet="/Project/Advanced/Search Filters/Instructor-Led Portal/Instructor-Led Portal.flsfs">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable
+      Name="global_var/CompanyName">ReadyTech</Variable>
+  </Variables>
+  <RelationshipTables>
+    <RelationshipTable
+      Link="/Project/Advanced/Relationship Tables/Instructor-Led Portal/Instructor-Led Portal.flrtb" />
+  </RelationshipTables>
+</CatapultTarget>

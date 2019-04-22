@@ -1,0 +1,1 @@
+define({'skin':{},'toc':{}});

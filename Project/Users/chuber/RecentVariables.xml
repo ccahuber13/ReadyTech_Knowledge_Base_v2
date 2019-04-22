@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ObjectList>
+    <Object Value="globalVariables.kb-allTitle" />
+    <Object Value="globalVariables.kb-instructorLedPortalTitle" />
+    <Object Value="globalVariables.kb-adminPortalTitle" />
+    <Object Value="adminPortalVariables.top-creatingEvents" />
+    <Object Value="adminPortalVariables.top-events" />
+    <Object Value="adminPortalVariables.top-cancellationPolicies" />
+</ObjectList>

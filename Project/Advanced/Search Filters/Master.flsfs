@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+  <SearchFilter
+    Name="Admin Portal"
+    Order="0"
+    Concepts="Admin Portal"></SearchFilter>
+  <SearchFilter
+    Name="Instructor-Led Portal"
+    Comment=""
+    Order="1"
+    Concepts="Instructor-Led Portal" />
+  <SearchFilter
+    Name="Self-Paced Portal"
+    Comment=""
+    Order="10" />
+  <SearchFilter
+    Name="LabManager"
+    Comment=""
+    Order="2" />
+  <SearchFilter
+    Name="Axis"
+    Comment=""
+    Order="9" />
+  <SearchFilter
+    Name="ClassManager"
+    Comment=""
+    Order="8" />
+  <SearchFilter
+    Name="Saas Labs"
+    Comment=""
+    Order="7" />
+  <SearchFilter
+    Comment=""
+    Order="6"
+    Name="S.T.E.P" />
+  <SearchFilter
+    Name="TMS"
+    Comment=""
+    Order="5" />
+  <SearchFilter
+    Name="Support"
+    Comment=""
+    Order="4" />
+  <SearchFilter
+    Name="Troubleshooting"
+    Comment=""
+    Order="3" />
+</CatapultSearchFilterSet>

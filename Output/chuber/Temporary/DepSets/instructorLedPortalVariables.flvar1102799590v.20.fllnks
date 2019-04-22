@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.KB Instructor-Led Portal" />
+  </FileConditions>
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.Instructor-Led Portal" />
+    <Tag
+      Name="File Tags/Product.ClassManager" />
+    <Tag
+      Name="File Tags/Product.SaaS Labs" />
+    <Tag
+      Name="File Tags/Product.HyperView" />
+  </FileTags>
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

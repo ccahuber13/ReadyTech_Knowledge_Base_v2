@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="[%=globalVariables.kb-allTitle%]"
+  FileSearchable="false"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/testing/ReadyTech_Knowledge_Base_Dev/Content/resources/master_pages/home.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/Advanced/File Tags/Catagory.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/resources/master_pages/home.flmsp" />
+    <Link
+      Url="Project/VariableSets/globalVariables.flvar" />
+    <Link
+      Url="Content/resources/css/styles.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/Advanced/File Tags/Catagory.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/resources/master_pages/home.flmsp" />
+    <Link
+      Url="Project/VariableSets/globalVariables.flvar" />
+    <Link
+      Url="Content/resources/css/styles.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="globalVariables.kb-allTitle" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.KB All Landing Page" />
+  </FileConditions>
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.product_landing_page" />
+    <Tag
+      Name="File Tags/Catagory.KB Landing Page" />
+  </FileTags>
+  <AllConditions>
+    <Condition
+      Tag="Default.KB All Landing Page" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/resources/css/styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet
+  Type="Product"
+  Comment="My set of author tags">
+  <FileTag
+    Name="Admin Portal"
+    Comment=""
+    OriginalName="Admin Portal" />
+  <FileTag
+    Name="Instructor-Led Portal"
+    Comment=""
+    OriginalName="Instructor-Led Portal" />
+  <FileTag
+    Name="Self-Paced Portal"
+    Comment=""
+    OriginalName="Self-Paced Portal" />
+  <FileTag
+    Name="LabManager"
+    Comment=""
+    OriginalName="LabManager" />
+  <FileTag
+    Name="Axis"
+    Comment=""
+    OriginalName="Axis" />
+  <FileTag
+    Name="ClassManager"
+    Comment=""
+    OriginalName="ClassManager" />
+  <FileTag
+    Name="SaaS Labs"
+    Comment=""
+    OriginalName="SaaS Labs" />
+  <FileTag
+    Name="STEP"
+    Comment=""
+    OriginalName="STEP" />
+  <FileTag
+    Name="Purchase Portal"
+    Comment=""
+    OriginalName="Purchase Portal" />
+  <FileTag
+    Name="DeviceMapper"
+    Comment=""
+    OriginalName="DeviceMapper" />
+  <FileTag
+    Name="SubmitWork"
+    Comment=""
+    OriginalName="SubmitWork" />
+  <FileTag
+    Name="TMS"
+    Comment=""
+    OriginalName="TMS" />
+  <FileTag
+    Name="PortalHelper"
+    Comment=""
+    OriginalName="PortalHelper" />
+  <FileTag
+    Name="LabTracker"
+    Comment=""
+    OriginalName="LabTracker" />
+  <FileTag
+    Name="ReadyTech Viewer"
+    Comment=""
+    OriginalName="ReadyTech Viewer" />
+  <FileTag
+    Name="HyperView"
+    Comment=""
+    OriginalName="HyperView" />
+</CatapultFileTagSet>

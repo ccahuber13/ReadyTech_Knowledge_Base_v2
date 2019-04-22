@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="[%=global_var.kb-instructorLedPortalTitle%]"
+  FileSearchable="true"
+  MasterPage="file:///C:/KB/ReadyTech_Knowledge_Base_Dev/Content/Resources/master_pages/home.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="ReadyTech Instructor-Led Portal Knowledge Base.">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/master_pages/home.flmsp" />
+    <Link
+      Url="Project/VariableSets/global_var.flvar" />
+    <Link
+      Url="Content/Resources/css/styles.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/master_pages/home.flmsp" />
+    <Link
+      Url="Project/VariableSets/global_var.flvar" />
+    <Link
+      Url="Content/Resources/css/styles.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Instructor-Led Portal"
+      Conditions="Default.Instructor-Led Portal"
+      LocalConditions=""
+      Position="9" />
+    <ConceptCacheEntry
+      Term="ClassManager"
+      Conditions="Default.Instructor-Led Portal"
+      LocalConditions=""
+      Position="10" />
+    <ConceptCacheEntry
+      Term="SaaS Labs"
+      Conditions="Default.Instructor-Led Portal"
+      LocalConditions=""
+      Position="11" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="global_var.kb-instructorLedPortalTitle" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.Instructor-Led Portal" />
+  </FileConditions>
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.product_landing_page" />
+    <Tag
+      Name="File Tags/Product.Instructor-Led Portal" />
+    <Tag
+      Name="File Tags/Product.ClassManager" />
+    <Tag
+      Name="File Tags/Product.SaaS Labs" />
+  </FileTags>
+  <AllConditions>
+    <Condition
+      Tag="Default.Instructor-Led Portal" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/css/styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

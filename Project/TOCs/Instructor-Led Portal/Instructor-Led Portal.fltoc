@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Default.Instructor-Led Portal"
+  fileTags="File Tags/Product.ilp">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Products/Instructor-Led-Portal/instructor_led_portal_home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>

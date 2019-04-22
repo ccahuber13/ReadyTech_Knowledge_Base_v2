@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/Home.htm"
+  MakeFileLowerCase="false"
+  TopNavTocPath="true"
+  conditions="Default.Content Managers,Default.Master"
+  fileTags="File Tags/Product.Support"
+  TOCChunkSize="100000"
+  MinifyJavaScript="true"
+  ConditionTagExpression=""
+  PartialWordSearch="true"
+  IncludeGlossarySearchResults="false"
+  IncludeMicroContentSearchResults="true"
+  ExcludeUnreferencedContent="false"
+  UseEmptyAltText="true"
+  SearchFilterSet="/Project/Advanced/Search Filters/Master.flsfs"
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
+  MasterToc="/Project/TOCs/Master.fltoc"
+  MasterPage="/Content/Resources/master_pages/home.flmsp">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

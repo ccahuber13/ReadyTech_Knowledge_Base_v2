@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Admin Portal Knowledge Base"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="marked"
+  fileTags="File Tags/Product.Admin Portal"
+  ConditionTagExpression="include[&quot;Default.Admin Portal&quot;]"
+  TopNavTocPath="true"
+  MakeFileLowerCase="true"
+  MasterPage="/Content/Resources/master_pages/home.flmsp"
+  MasterToc="/Project/TOCs/Admin Portal/Admin Portal.fltoc"
+  DefaultUrl="/Content/Products/Admin-Portal/admin_portal_home.htm"
+  UseEmptyAltText="true"
+  PartialWordSearch="true"
+  MinimumWordSize="3"
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
+  conditions="Default.Admin Portal">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable
+      Name="global_var/CompanyName">ReadyTech</Variable>
+  </Variables>
+  <RelationshipTables>
+    <RelationshipTable
+      Link="/Project/Advanced/Relationship Tables/Admin Portal/Admin Portal.flrtb" />
+  </RelationshipTables>
+</CatapultTarget>

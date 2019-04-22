@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="[%=adminPortalVariables.top-cancellationPolicies%]"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/testing/ReadyTech_Knowledge_Base_Dev/Content/resources/master_pages/topics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="Learn about ReadyTech cancellation policies regarding events and access codes.">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/resources/master_pages/topics.flmsp" />
+    <Link
+      Url="Project/VariableSets/adminPortalVariables.flvar" />
+    <Link
+      Url="Content/resources/css/styles.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/resources/master_pages/topics.flmsp" />
+    <Link
+      Url="Project/VariableSets/adminPortalVariables.flvar" />
+    <Link
+      Url="Content/resources/css/styles.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Events"
+      Conditions="Default.KB Admin Portal"
+      LocalConditions=""
+      Position="6" />
+    <ConceptCacheEntry
+      Term="Admin Portal"
+      Conditions="Default.KB Admin Portal"
+      LocalConditions=""
+      Position="10" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="adminPortalVariables.top-cancellationPolicies" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.KB Admin Portal" />
+  </FileConditions>
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.product_landing_page" />
+    <Tag
+      Name="File Tags/Product.Admin Portal" />
+  </FileTags>
+  <AllConditions>
+    <Condition
+      Tag="Default.KB Admin Portal" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/resources/css/styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

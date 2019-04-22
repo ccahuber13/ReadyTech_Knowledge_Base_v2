@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  fileTags="File Tags/Product.ap"
+  conditions="Default.Admin Portal">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Products/Admin-Portal/topics/events/_events.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Products/Admin-Portal/topics/events/creating_events.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Products/Admin-Portal/topics/policies/cancellation_policies.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Content/admin_portal/ap_topic_3.htm" />
+    <Link
+      Url="Content/admin_portal/ap_topic_4.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.ap" />
+  </FileTags>
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Content/resources/master_pages/home.flmsp" />
+    <Link
+      Url="Project/TOCs/admin_portal_toc.fltoc" />
+    <Link
+      Url="Content/kb_admin_portal/admin_portal_home.htm" />
+    <Link
+      Url="Project/Skins/HTML5 - Side Navigation.flskn" />
+    <Link
+      Url="Project/VariableSets/globalVariables.flvar" />
+    <Link
+      Url="Project/Advanced/Relationship Tables/KB Admin Portal.flrtb" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.Admin Portal" />
+  </FileTags>
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/resources/master_pages/home.flmsp" />
+    <Link
+      Url="Project/TOCs/Instructor-Led Portal/Instructor-Led Portal.fltoc" />
+    <Link
+      Url="Content/Instructor-Led-Portal/instructor_led_portal_home.htm" />
+    <Link
+      Url="Project/Skins/HTML5 - Side Navigation.flskn" />
+    <Link
+      Url="Project/Advanced/Search Filters/Instructor-Led Portal/Instructor-Led Portal.flsfs" />
+    <Link
+      Url="Project/VariableSets/global_var.flvar" />
+    <Link
+      Url="Project/Advanced/Relationship Tables/Instructor-Led Portal/Instructor-Led Portal.flrtb" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.Instructor-Led Portal" />
+  </FileConditions>
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.Admin Portal" />
+    <Tag
+      Name="File Tags/Product.Instructor-Led Portal" />
+  </FileTags>
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
