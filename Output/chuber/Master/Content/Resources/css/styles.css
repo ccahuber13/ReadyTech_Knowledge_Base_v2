@@ -1,0 +1,190 @@
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+/*<meta />*/
+
+body
+{
+	font-family: Arial;
+}
+
+h1
+{
+	font-weight: bold;
+	font-size: 24.0pt;
+}
+
+h2
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+
+h3
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+
+p
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+/*====================================================================
+	Changes to Madcap Flare styles
+*/
+
+.body-container
+{
+	padding-top: 0;
+}
+
+MadCap|breadcrumbsProxy
+{
+	background: #ffffff;
+	padding-top: 0.5rem;
+	font-size: 9pt;
+	color: #a9a9a9;
+}
+
+a.MCBreadcrumbsLink
+{
+	text-decoration: none;
+	color: #3a73e3;
+}
+
+ul.menu.mc-component {
+	
+}
+
+ul.menu.mc-component ul > li > a {
+	padding-left:0;
+	padding-top: 5px;
+}
+
+ul.menu.mc-component ul ul > li > a {
+	padding-left:15px;
+}
+
+/*====================================================================
+	ReadyTech added styles
+*/
+
+.grid-wrapper
+{
+	display: grid;
+	grid-template-columns: 3.5fr 1fr;
+	grid-column-gap: 1.5rem;
+	height: 100vh;
+}
+
+.grid-wrapper__box1
+{
+	grid-row: 1 / 5;
+	padding: 1rem;
+	box-shadow: 0px 5px 15px rgba(0, 0, 0, .3);
+	
+}
+
+.grid-wrapper__box2 {
+	box-shadow: 0px 5px 15px rgba(0, 0, 0, .3);
+	height: fit-content;
+	margin-top: 2rem;
+	position: sticky;
+	top: 0;
+}
+
+.grid-wrapper__box2 > p {
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 7px;
+	font-weight: bold;
+	border-bottom: 1px solid #ddd;
+}
+
+.grid-wrapper > div:nth-child(event)
+{
+	background-color: #eee;
+}
+
+footer
+{
+	display: block;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100vw;
+	height: 35px;
+	background-color: #dfdfdf;
+	border-top: 1px solid #aaa;
+	text-align: center;
+	padding-top: .5rem;
+}
+
+
+
+@media screen and (min-width: 1150px)
+{
+	
+}
+

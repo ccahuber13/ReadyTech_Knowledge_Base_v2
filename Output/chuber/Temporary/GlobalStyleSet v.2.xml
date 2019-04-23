@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalStyleCache
-  SavedSource="file:///C:/ReadyTech/Knowledge_Base/testing/ReadyTech_Knowledge_Base_Dev/Output/chuber/Temporary/GlobalStyleSet v.2.xml">
+  SavedSource="file:///C:/ReadyTech/Knowledge_Base/ReadyTech_Knowledge_Base_v2_Dev/Output/chuber/Temporary/GlobalStyleSet v.2.xml">
   <Media>
+    <Medium
+      Name="screen and (min-width: 1150px)" />
     <Medium
       Name="print" />
     <Medium
@@ -147,20 +149,6 @@
         Name="Highlighted" />
     </Tag>
     <Tag
-      Name="madcapEditorBehavior" />
-    <Tag
-      Name="select" />
-    <Tag
-      Name="input" />
-    <Tag
-      Name="textarea" />
-    <Tag
-      Name="object" />
-    <Tag
-      Name="script" />
-    <Tag
-      Name="hr" />
-    <Tag
       Name="div">
       <Class
         Name="GlossaryPageEntry" />
@@ -177,6 +165,20 @@
       <Class
         Name="Row-8-4" />
     </Tag>
+    <Tag
+      Name="madcapEditorBehavior" />
+    <Tag
+      Name="select" />
+    <Tag
+      Name="input" />
+    <Tag
+      Name="textarea" />
+    <Tag
+      Name="object" />
+    <Tag
+      Name="script" />
+    <Tag
+      Name="hr" />
     <Tag
       Name="span">
       <Class
@@ -534,22 +536,22 @@
   </Map>
   <SourceUrls>
     <Url
-      Source="resources/css/home_page.css" />
+      Source="Resources/css/home_page.css" />
     <Url
-      Source="resources/css/landing_page.css" />
+      Source="Resources/css/landing_page.css" />
     <Url
-      Source="resources/css/modern.css" />
+      Source="Resources/css/modern.css" />
     <Url
-      Source="resources/css/search_page.css" />
+      Source="Resources/css/search_page.css" />
     <Url
-      Source="resources/css/styles.css" />
+      Source="Resources/css/styles.css" />
     <Url
-      Source="resources/css/topic_page.css" />
+      Source="Resources/css/topic_page.css" />
     <Url
-      Source="../../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/xhtml.css" />
+      Source="../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/xhtml.css" />
     <Url
-      Source="../../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditor.css" />
+      Source="../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditor.css" />
     <Url
-      Source="../../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
+      Source="../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
   </SourceUrls>
 </CatapultGlobalStyleCache>

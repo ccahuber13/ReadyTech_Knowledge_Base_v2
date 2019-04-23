@@ -20,9 +20,9 @@
   ExcludeUnreferencedContent="false"
   UseEmptyAltText="true"
   SearchFilterSet="/Project/Advanced/Search Filters/Master.flsfs"
-  Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
   MasterToc="/Project/TOCs/Master.fltoc"
-  MasterPage="/Content/Resources/master_pages/home.flmsp">
+  MasterPage="/Content/Resources/master_pages/home.flmsp"
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

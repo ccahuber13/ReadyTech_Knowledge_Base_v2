@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="[%=AP/ap_var.top-creatingEvents%]"
+  FileSearchable="true"
+  MasterPage="file:///C:/KB/ReadyTech_Knowledge_Base_v2_Dev/Content/Resources/master_pages/topics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="Learn about creating different event types to best fit your training needs.">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Content/Resources/master_pages/topics.flmsp" />
+    <Link
+      Url="Project/VariableSets/AP/ap_var.flvar" />
+    <Link
+      Url="Content/Resources/css/styles.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Content/Resources/master_pages/topics.flmsp" />
+    <Link
+      Url="Project/VariableSets/AP/ap_var.flvar" />
+    <Link
+      Url="Content/Resources/css/styles.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Events"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <ConceptCacheEntry
+      Term="Admin Portal"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <ConceptCacheEntry
+      Term="Events"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="AP/ap_var.top-creatingEvents" />
+  </Variables>
+  <FileConditions />
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.product_landing_page" />
+    <Tag
+      Name="File Tags/Product.Admin Portal" />
+  </FileTags>
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/css/styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
