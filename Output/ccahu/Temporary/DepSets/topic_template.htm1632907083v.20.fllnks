@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="[%=Heading.Level1%]"
+  FileSearchable="true"
+  MasterPage="file:///C:/KB/New folder/ReadyTech_Knowledge_Base_v2_Dev/Content/Resources/master_pages/topics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/master_pages/topics.flmsp" />
+    <Link
+      Url="Content/Resources/css/styles.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/master_pages/topics.flmsp" />
+    <Link
+      Url="Content/Resources/css/styles.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Admin Portal"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <ConceptCacheEntry
+      Term="Events"
+      Conditions=""
+      LocalConditions=""
+      Position="8" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Heading.Level1" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/css/styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

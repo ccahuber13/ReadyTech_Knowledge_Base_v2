@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalSkinCache
-  SavedSource="file:///C:/KB/ReadyTech_Knowledge_Base_Dev/Output/ccahu/Temporary/GlobalSkinSet v.1.xml">
+  SavedSource="file:///C:/KB/ReadyTech_Knowledge_Base_v2_Dev/Output/ccahu/Temporary/GlobalSkinSet v.1.xml">
   <Map>
     <Tag
       Name="Logo" />
@@ -229,11 +229,7 @@
   </Map>
   <SourceUrls>
     <Url
-      Source="../Project/Skins/Default.flskn" />
-    <Url
       Source="../Project/Skins/HTML5 - Side Navigation.flskn" />
-    <Url
-      Source="../Project/Skins/HTML5 - Top Navigation.flskn" />
     <Url
       Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Stylesheets/MasterSkin.xmlstylesdef" />
   </SourceUrls>

@@ -258,7 +258,8 @@ ul.navigation ul > li:hover
 
 ul.sidenav li a:hover
 {
-	background-color: #303335;
+	font-weight: bold;
+	background-color: #ddd;
 }
 
 #resultList .glossary .term a:hover
@@ -284,22 +285,22 @@ ul.sidenav li a:hover
 
 ul.sidenav ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #ddd;
 }
 
 ul.sidenav ul ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #ddd;
 }
 
 ul.sidenav ul ul ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #ddd;
 }
 
 ul.sidenav ul ul ul ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #ddd;
 }
 
 ul.navigation li > a:hover
@@ -478,11 +479,12 @@ nav.title-bar .menu-icon
 	border-top-right-radius: 0px;
 	border-bottom-right-radius: 0px;
 	border-bottom-left-radius: 0px;
-	color: #5F5F5F;
-	font-size: 1em;
+	color: #d3d3d3;
+	font-family: Arial;
+	font-size: 1rem;
 	padding-left: 10px;
-	background-color: #ffffff;
-	padding-right: 50px;
+	background-color: #42617a;
+	padding-right: 75px;
 }
 
 .search-bar .search-field::-webkit-search-cancel-button
@@ -507,23 +509,25 @@ nav.title-bar .menu-icon
 	height: 2em;
 	border-top: none;
 	border-bottom: none;
-	border-right: solid 1px #000000;
-	border-left: solid 1px #000000;
-	width: 45px;
-	background: #ffffff url('Images/icon-filter.png') no-repeat center center;
-	-pie-background: #ffffff url('Skins/Fluid/Stylesheets/Images/icon-filter.png') no-repeat center center;
+	border-right: solid 0px #d3d3d3;
+	border-left: solid 0px #555555;
+	width: 35px;
+	background: #42617a url('Images/filter-results-button_2.png') no-repeat center center;
+	-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_2.png') no-repeat center center;
 }
 
 .search-bar .search-filter.selected
 {
-	background: transparent url('Images/icon-filter-selected.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/icon-filter-selected.png') no-repeat center center;
+	background: #f9951d url('Images/filter-results-button-white_1.png') no-repeat center center;
+	-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/filter-results-button-white_1.png') no-repeat center center;
 }
 
 .search-bar .search-filter.open
 {
-	color: #888888;
-	background-color: #ffffff;
+	-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_2.png') no-repeat center center;
+	color: #ffffff;
+	font-family: Arial;
+	background-color: #f9951d;
 }
 
 .search-bar .search-filter-wrapper
@@ -531,8 +535,8 @@ nav.title-bar .menu-icon
 	display: none;
 	position: absolute;
 	top: 0;
-	font-size: 1em;
-	right: 36px;
+	font-size: 1rem;
+	right: 35px;
 }
 
 .search-filter-content
@@ -549,8 +553,9 @@ nav.title-bar .menu-icon
 	z-index: 1;
 	white-space: nowrap;
 	top: 2em;
-	color: #888888;
-	background-color: #ffffff;
+	color: #ffffff;
+	font-family: Arial;
+	background-color: #f9951d;
 }
 
 .search-filter-content ul li
@@ -570,7 +575,7 @@ nav.title-bar .menu-icon
 	position: absolute;
 	top: 0;
 	right: 0;
-	font-size: 1em;
+	font-size: 1rem;
 }
 
 /* OffCanvas */
@@ -611,7 +616,7 @@ html[dir='rtl'] .sidenav-layout
 	overflow: auto;
 	width: 20%;
 	display: block;
-	background-color: #45494c;
+	background-color: transparent;
 }
 
 .sidenav-wrapper ul ul.is-accordion-submenu
@@ -631,24 +636,24 @@ html[dir='rtl'] .sidenav-layout
 ul.sidenav ul > li > a
 {
 	border-bottom: none 0px #303335;
-	margin-left: 2em;
+	margin-left: 1em;
 	padding-top: 0.3em;
 	padding-bottom: 0.3em;
 }
 
 ul.sidenav ul ul > li > a
 {
-	margin-left: 4em;
+	margin-left: 2rem;
 }
 
 ul.sidenav ul ul ul > li > a
 {
-	margin-left: 6em;
+	margin-left: 3em;
 }
 
 ul.sidenav ul ul ul ul > li > a
 {
-	margin-left: 8em;
+	margin-left: 4em;
 }
 
 /* Pulse.htm */
@@ -863,8 +868,8 @@ html.pulseTopic .main-section .row.outer-row
 
 .search-bar .search-filter:hover
 {
-	background: #ffffff url('Images/icon-filter.png') no-repeat center center;
-	-pie-background: #ffffff url('Skins/Fluid/Stylesheets/Images/icon-filter.png') no-repeat center center;
+	background: #f9951d url('Images/filter-results-button-white.png') no-repeat center center;
+	-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/filter-results-button-white.png') no-repeat center center;
 }
 
 #resultList .glossary .definition
@@ -910,22 +915,22 @@ h1#results-heading
 
 .search-bar .search-field::-webkit-input-placeholder
 {
-	color: #5F5F5F;
+	color: #d3d3d3;
 }
 
 .search-bar .search-field::-moz-placeholder
 {
-	color: #5F5F5F;
+	color: #d3d3d3;
 }
 
 .search-bar .search-field:-moz-placeholder
 {
-	color: #5F5F5F;
+	color: #d3d3d3;
 }
 
 .search-bar .search-field:-ms-input-placeholder
 {
-	color: #5F5F5F;
+	color: #d3d3d3;
 }
 
 #searchPane > .micro-content-container > .micro-content > .micro-response
@@ -1058,15 +1063,15 @@ h1#results-heading
 
 .search-bar.search-bar-container .search-submit
 {
-	width: 36px;
-	background: transparent url('Images/icon-search.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/icon-search.png') no-repeat center center;
+	width: 35px;
+	background: transparent url('Images/magnifier-tool.png') no-repeat center center;
+	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/magnifier-tool.png') no-repeat center center;
 }
 
 .search-bar.search-bar-container .search-submit:hover
 {
-	background: transparent url('Images/icon-search.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/icon-search.png') no-repeat center center;
+	background: #f9951d url('Images/magnifier-tool-white_1.png') no-repeat center center;
+	-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/magnifier-tool-white_1.png') no-repeat center center;
 }
 
 .phrase-suggest
@@ -1081,7 +1086,7 @@ h1#results-heading
 
 .sidenav-container ul ul
 {
-	background-color: #45494c;
+	background-color: transparent;
 }
 
 .sidenav-container
@@ -1093,15 +1098,15 @@ h1#results-heading
 
 ul.sidenav li a
 {
-	border-bottom: solid 1px #303335;
+	border-bottom: solid 0px #303335;
 	padding-left: 0.67rem;
 	padding-right: 0.67rem;
 	padding-top: 0.67rem;
 	padding-bottom: 0.67rem;
-	color: #ffffff;
+	color: #000000;
 	font-family: Arial;
-	font-size: 1em;
-	line-height: 1.6em;
+	font-size: 1rem;
+	line-height: 1em;
 }
 
 ul.sidenav li
@@ -1122,26 +1127,27 @@ ul.sidenav li.is-accordion-submenu-parent > a span.submenu-toggle:hover
 ul.sidenav li a.selected
 {
 	font-weight: bold;
+	background-color: #ddd;
 }
 
 ul.sidenav ul > li > a.selected
 {
-	
+	background-color: #ddd;
 }
 
 ul.sidenav ul ul > li > a.selected
 {
-	
+	background-color: #ddd;
 }
 
 ul.sidenav ul ul ul > li > a.selected
 {
-	
+	background-color: #ddd;
 }
 
 ul.sidenav ul ul ul ul > li > a.selected
 {
-	
+	background-color: #ddd;
 }
 
 ul.navigation ul a

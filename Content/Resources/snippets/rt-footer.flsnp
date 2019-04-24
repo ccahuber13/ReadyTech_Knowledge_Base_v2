@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+            <script src="../js/rt_script.js"></script>
+    </head>
+    <body>
+        <footer>
+            <p>© <span id="date"></span> <a href="https://www.readytech.com">ReadyTech Corp.</a> All Rights Reserved.</p>
+        </footer>
+    </body>
+</html>

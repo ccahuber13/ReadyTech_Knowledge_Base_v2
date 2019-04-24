@@ -91,11 +91,32 @@
                             </div>
                             <div class="body-container">
                                 <div data-mc-content-body="True">
-                                    <div id="searchPane">
-                                        <h1 id="results-heading">Your search for <span class="query"></span> returned <span class="total-results"></span> result(s).</h1>
-                                        <div id="pagination"><a class="previousPage">Previous</a><a class="nextPage">Next</a>
-                                        </div>
-                                    </div>
+                                    <main class="grid-wrapper">
+                                        <section class="grid-wrapper__box1">
+                                            <div id="searchPane">
+                                                <h1 id="results-heading">Your search for <span class="query"></span> returned <span class="total-results"></span> result(s).</h1>
+                                                <div id="pagination"><a class="previousPage">Previous</a><a class="nextPage">Next</a>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <aside class="grid-wrapper__box2">
+                                            <section class="toc">
+                                                <p>Table of contents</p>
+                                                <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                                            </section>
+                                            <section class="pdf-guides">
+                                                <p>PDF Guides</p>
+                                                <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                                            </section>
+                                            <section class="rel-links">
+                                                <p>Related links</p>
+                                                <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                                            </section>
+                                        </aside>
+                                    </main>
+                                    <footer>
+                                        <p>© 2019 <a href="https://www.readytech.com">ReadyTech Corp.</a> All Rights Reserved.</p>
+                                    </footer>
                                 </div>
                             </div>
                         </div>

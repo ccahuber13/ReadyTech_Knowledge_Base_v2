@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
-  fileTags="File Tags/Product.ap"
+  fileTags="File Tags/Product.ap,File Tags/Product.Admin Portal"
   conditions="Default.Admin Portal">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
@@ -12,5 +12,7 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Products/Admin-Portal/topics/policies/cancellation_policies.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/Products/Admin-Portal/topics/policies/cancellation_policies.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
 </CatapultToc>

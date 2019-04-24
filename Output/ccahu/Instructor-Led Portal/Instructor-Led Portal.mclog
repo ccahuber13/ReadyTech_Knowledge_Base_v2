@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated Instructor-Led Portal.fltar" Date="2019-04-22T00:18:20.1075249-07:00">
+    <Messages>Compiling target Instructor-Led Portal...
+Removing previously generated content...
+Error validating conditional expression: Unrecognized tag: Default.Instructor-Led
+Build failed: Conditions Parser: Line: 1. Char: 23. Invalid token (Portal)
+Saving log to "C:\KB\ReadyTech_Knowledge_Base_v2_Dev\Output\ccahu\Instructor-Led Portal\Instructor-Led Portal.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry Message="Error validating conditional expression: Unrecognized tag: Default.Instructor-Led&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="Instructor-Led Portal" ErrorID="10052" />
+    </Warnings>
+    <Errors>
+        <LogEntry File="Project\Targets\Instructor-Led Portal.fltar" Message="Build failed: Conditions Parser: Line: 1. Char: 23. Invalid token (Portal)&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="Instructor-Led Portal" ErrorID="10086" />
+    </Errors>
+</MadCapLog>

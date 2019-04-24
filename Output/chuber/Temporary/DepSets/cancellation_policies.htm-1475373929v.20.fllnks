@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="[%=AP/ap_var.top-cancellationPolicies%]"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/ReadyTech_Knowledge_Base_v2_Dev/Content/Resources/master_pages/topics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="Learn about ReadyTech policies regarding cancelling events and access codes.">
+  <Links>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Content/Resources/master_pages/topics.flmsp" />
+    <Link
+      Url="Project/VariableSets/AP/ap_var.flvar" />
+    <Link
+      Url="Content/Resources/css/styles.css" />
+    <Link
+      Url="https://view.vzaar.com/6082574/video" />
+    <Link
+      Url="Content/Products/Admin-Portal/topics/events/sessions.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/Advanced/File Tags/Product.flfts" />
+    <Link
+      Url="Content/Resources/master_pages/topics.flmsp" />
+    <Link
+      Url="Project/VariableSets/AP/ap_var.flvar" />
+    <Link
+      Url="Content/Resources/css/styles.css" />
+    <Link
+      Url="https://view.vzaar.com/6082574/video" />
+    <Link
+      Url="Content/Products/Admin-Portal/topics/events/sessions.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Events"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <ConceptCacheEntry
+      Term="Admin Portal"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="AP/ap_var.top-cancellationPolicies" />
+  </Variables>
+  <FileConditions />
+  <FileTags>
+    <Tag
+      Name="File Tags/Product.product_landing_page" />
+  </FileTags>
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/css/styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

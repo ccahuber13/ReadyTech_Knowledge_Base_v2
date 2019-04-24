@@ -25,9 +25,8 @@
 
 	.search-bar .search-filter
 	{
-		background-position: center center;
-		background-repeat: no-repeat;
-		background-color: #ffffff;
+		background: #42617a url('Images/filter-results-button_2.png') no-repeat center center;
+		-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_2.png') no-repeat center center;
 	}
 
 	.search-input
@@ -93,12 +92,12 @@
 
 	.off-canvas
 	{
-		background-color: #333333;
+		background-color: #f7f7f7;
 	}
 
 	.off-canvas ul ul
 	{
-		background-color: #333333;
+		background-color: #f7f7f7;
 	}
 
 	ul.off-canvas-list li a
@@ -133,57 +132,57 @@
 
 	ul.off-canvas-list li a:hover
 	{
-		background-color: #242424;
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
-		background-color: #242424;
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
-		background-color: #242424;
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
-		background-color: #242424;
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
-		background-color: #242424;
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
-		background-color: #242424;
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list li a.selected
 	{
-		
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list ul > li > a.selected
 	{
-		
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list ul ul > li > a.selected
 	{
-		
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a.selected
 	{
-		
+		background-color: #dfdfdf;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a.selected
 	{
-		
+		background-color: #dfdfdf;
 	}
 
 	.title-bar .menu-icon span
@@ -333,31 +332,32 @@
 
 	.search-bar .search-field
 	{
-		background-color: #ffffff;
-		padding-right: 50px;
+		background-color: #42617a;
+		padding-right: 75px;
 	}
 
 	.search-filter-content
 	{
 		top: 2em;
-		background-color: #ffffff;
+		background-color: #f9951d;
 	}
 
 	.search-bar .search-filter.open
 	{
-		background-color: #ffffff;
+		-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_2.png') no-repeat center center;
+		background-color: #f9951d;
 	}
 
 	.search-bar .search-filter:hover
 	{
-		background-repeat: no-repeat;
-		background-color: #ffffff;
+		background: #f9951d url('Images/filter-results-button-white.png') no-repeat center center;
+		-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/filter-results-button-white.png') no-repeat center center;
 	}
 
 	.search-bar .search-filter.selected
 	{
-		background-repeat: no-repeat;
-		background: transparent url('Images/icon-filter-selected.png') no-repeat center center;
+		background: #f9951d url('Images/filter-results-button-white_1.png') no-repeat center center;
+		-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/filter-results-button-white_1.png') no-repeat center center;
 	}
 
 	.search-filter-content ul li:hover
@@ -387,14 +387,19 @@
 
 	.search-bar.search-bar-container .search-submit
 	{
-		background-repeat: no-repeat;
-		background: transparent url('Images/icon-search.png') no-repeat center center;
+		background: transparent url('Images/magnifier-tool.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/magnifier-tool.png') no-repeat center center;
+	}
+
+	.search-bar .search-filter-wrapper
+	{
+		right: 35px;
 	}
 
 	.search-bar.search-bar-container .search-submit:hover
 	{
-		background-repeat: no-repeat;
-		background-color: transparent;
+		background: #f9951d url('Images/magnifier-tool-white_1.png') no-repeat center center;
+		-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/magnifier-tool-white_1.png') no-repeat center center;
 	}
 }
 

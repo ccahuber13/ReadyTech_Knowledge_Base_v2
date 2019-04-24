@@ -1,34 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<reltable xmlns="http://docs.oasis-open.org/dita/v1.1/schema/ditabase.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:conditions="Default.Admin Portal"
-  MadCap:fileTags="File Tags/Product.Admin Portal">
-  <relheader>
-    <relcolspec
-      type="concept" />
-    <relcolspec
-      type="task" />
-    <relcolspec
-      type="reference" />
-  </relheader>
-  <relrow
-    class="Events">
-    <relcell
-      collection-type="unordered"
-      linking="normal">
-      <topicref
-        href="/Content/Products/Admin-Portal/topics/events/_events.htm" />
-    </relcell>
-    <relcell
-      collection-type="unordered"
-      linking="normal">
-      <topicref
-        href="/Content/Products/Admin-Portal/topics/events/creating_events.htm" />
-    </relcell>
-    <relcell
-      collection-type="unordered"
-      linking="normal">
-      <topicref
-        href="/Content/Products/Admin-Portal/topics/policies/cancellation_policies.htm" />
-    </relcell>
-  </relrow>
+<reltable xmlns="http://docs.oasis-open.org/dita/v1.1/schema/ditabase.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.Admin Portal" MadCap:fileTags="File Tags/Product.Admin&#160;Portal">
+    <relheader>
+        <relcolspec type="concept" />
+        <relcolspec type="task" />
+        <relcolspec type="reference" />
+    </relheader>
+    <relrow class="Events">
+        <relcell collection-type="unordered" linking="normal">
+            <topicref href="/Content/Products/Admin-Portal/topics/events/_events.htm" linking="normal" />
+        </relcell>
+        <relcell collection-type="unordered" linking="normal">
+            <topicref href="/Content/Products/Admin-Portal/topics/events/creating_events.htm" />
+        </relcell>
+        <relcell collection-type="unordered" linking="normal">
+            <topicref href="/Content/Products/Admin-Portal/topics/policies/cancellation_policies.htm" />
+        </relcell>
+    </relrow>
 </reltable>

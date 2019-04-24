@@ -1,12 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
-        <link href="" rel="stylesheet" type="text/css" />
+        <link href="../css/styles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
+        
+        
+            <main class="grid-wrapper">
+                <section class="grid-wrapper__box1">
+                    <MadCap:breadcrumbsProxy />
+                    <MadCap:bodyProxy />
+                </section>
+                <aside class="grid-wrapper__box2">
+                    <section class="toc">
+                        <p>Table of contents</p>
+                        <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                    </section>
 
-        <MadCap:bodyProxy />
-		
-	
+                    <section class="pdf-guides">
+                        <p>PDF Guides</p>
+                        <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                    </section>
+
+
+                    <section class="rel-links">
+                        <p>Related links</p>
+                        <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                    </section>
+
+                </aside>
+            </main>
+    
+        <MadCap:snippetBlock src="../snippets/rt-footer.flsnp" />
     </body>
 </html>

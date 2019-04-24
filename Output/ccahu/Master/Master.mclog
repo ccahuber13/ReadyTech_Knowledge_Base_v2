@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated Master.fltar" Date="2019-04-19T23:43:20.7413182-07:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated Master.fltar" Date="2019-04-22T19:01:05.5835151-07:00">
     <Messages>Compiling target Master...
 Removing previously generated content...
 Loading skin info...
@@ -70,10 +70,10 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Output generated in 5 second(s).
+Output generated in 4 second(s).
 
 Done
-Saving log to "C:\KB\ReadyTech_Knowledge_Base_Dev\Output\ccahu\Master\Master.mclog"
+Saving log to "C:\KB\New folder\ReadyTech_Knowledge_Base_v2_Dev\Output\ccahu\Master\Master.mclog"
 </Messages>
     <Warnings>
         <LogEntry File="../../../Content/Resources/images/logo/logo.htm" Message="Topic contains invalid XHTML.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="Master" ErrorID="20058" />

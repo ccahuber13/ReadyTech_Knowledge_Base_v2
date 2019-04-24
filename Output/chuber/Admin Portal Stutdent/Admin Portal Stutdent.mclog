@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated Admin Portal Stutdent.fltar" Date="2019-04-22T15:47:35.8161623-07:00">
+    <Messages>Compiling target Admin Portal Stutdent...
+Removing previously generated content...
+Error validating conditional expression: Unrecognized tag: Default.Content
+Build failed: Conditions Parser: Line: 1. Char: 16. Invalid token (Students)
+Saving log to "C:\ReadyTech\Knowledge_Base\ReadyTech_Knowledge_Base_v2_Dev\Output\chuber\Admin Portal Stutdent\Admin Portal Stutdent.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry Message="Error validating conditional expression: Unrecognized tag: Default.Content&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="Admin Portal Stutdent" ErrorID="10052" />
+    </Warnings>
+    <Errors>
+        <LogEntry File="Project\Targets\Admin Portal Stutdent.fltar" Message="Build failed: Conditions Parser: Line: 1. Char: 16. Invalid token (Students)&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="Admin Portal Stutdent" ErrorID="10086" />
+    </Errors>
+</MadCapLog>

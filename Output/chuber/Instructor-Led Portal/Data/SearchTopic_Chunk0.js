@@ -1,1 +1,0 @@
-define({"0":{y:0,u:"../Content/kb_instructor_led_portal/instructor_led_portal_home.htm",l:-1,t:"Instructor-Led Portal Knowledge Base",i:1,a:"ReadyTech Instructor-Led Portal Knowledge Base."},});

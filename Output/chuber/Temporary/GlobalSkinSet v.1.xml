@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalSkinCache
-  SavedSource="file:///C:/ReadyTech/Knowledge_Base/testing/ReadyTech_Knowledge_Base_Dev/Output/chuber/Temporary/GlobalSkinSet v.1.xml">
+  SavedSource="file:///C:/ReadyTech/Knowledge_Base/ReadyTech_Knowledge_Base_v2_Dev/Output/chuber/Temporary/GlobalSkinSet v.1.xml">
   <Map>
     <Tag
       Name="Home Button" />
@@ -226,15 +226,42 @@
       Name="Search Bar" />
     <Tag
       Name="Menu" />
+    <Tag
+      Name="Side Navigation Menu" />
+    <Tag
+      Name="Side Navigation Menu Item">
+      <Class
+        Name="1st Level" />
+      <Class
+        Name="2nd Level" />
+      <Class
+        Name="3rd Level" />
+      <Class
+        Name="4th Level" />
+    </Tag>
+    <Tag
+      Name="Side Navigation Menu Item (hover)" />
+    <Tag
+      Name="Side Navigation Menu Item (selected)" />
+    <Tag
+      Name="Search Input" />
+    <Tag
+      Name="Search Filter" />
+    <Tag
+      Name="Search Filter (hover)" />
+    <Tag
+      Name="Search Filter (selected)" />
+    <Tag
+      Name="Search Filter Drop-down" />
+    <Tag
+      Name="Search Submit Button" />
+    <Tag
+      Name="Search Submit Button (hover)" />
   </Map>
   <SourceUrls>
     <Url
-      Source="../Project/Skins/Default.flskn" />
-    <Url
       Source="../Project/Skins/HTML5 - Side Navigation.flskn" />
     <Url
-      Source="../Project/Skins/HTML5 - Top Navigation.flskn" />
-    <Url
-      Source="../../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Stylesheets/MasterSkin.xmlstylesdef" />
+      Source="../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Stylesheets/MasterSkin.xmlstylesdef" />
   </SourceUrls>
 </CatapultGlobalSkinCache>

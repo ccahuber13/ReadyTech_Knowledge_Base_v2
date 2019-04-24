@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Default.Self-Paced Portal"
+  fileTags="File Tags/Product.Self-Paced Portal">
+  <TocEntry
+    Title="Axis API PDF"
+    Link="../../../Content/Resources/AxisAPIDoc.pdf"></TocEntry>
+</CatapultToc>
