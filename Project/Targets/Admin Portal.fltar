@@ -10,14 +10,15 @@
   ConditionTagExpression="include[&quot;Default.Admin Portal&quot;]"
   TopNavTocPath="true"
   MakeFileLowerCase="true"
-  MasterToc="/Project/TOCs/Admin Portal/Admin Portal.fltoc"
+  MasterToc="/Project/TOCs/Admin Portal/toc-Admin-Portal.fltoc"
   DefaultUrl="/Content/Products/Admin-Portal/AP_Home.htm"
   UseEmptyAltText="true"
   PartialWordSearch="true"
   MinimumWordSize="3"
   Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
   conditions="Default.Admin Portal"
-  SearchFilterSet="/Project/Advanced/Search Filters/Admin Portal/Admin Portal.flsfs">
+  SearchFilterSet="/Project/Advanced/Search Filters/Admin Portal/Admin Portal.flsfs"
+  TOCChunkSize="30000">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

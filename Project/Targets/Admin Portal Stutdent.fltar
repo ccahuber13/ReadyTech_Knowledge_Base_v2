@@ -11,7 +11,7 @@
   TopNavTocPath="true"
   MakeFileLowerCase="true"
   MasterPage="/Content/Resources/master_pages/home.flmsp"
-  MasterToc="/Project/TOCs/Admin Portal/Admin Portal.fltoc"
+  MasterToc="/Project/TOCs/Admin Portal/toc-Admin-Portal.fltoc"
   conditions="Default.Admin Portal">
   <PrintedOutput
     CollapseMargins="true"

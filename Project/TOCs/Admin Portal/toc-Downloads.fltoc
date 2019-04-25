@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  fileTags="File Tags/Product.Admin Portal">
+  <TocEntry
+    Title="ReadyTech Viewer x86"
+    Link="/Content/Resources/downloads/RTV_win_x86.msi"></TocEntry>
+  <TocEntry
+    Title="ReadyTech Viewer x64"
+    Link="/Content/Resources/downloads/RTV_win_x64.msi" />
+  <TocEntry
+    Title="WinMTR x86"
+    Link="/Content/Resources/downloads/MTR_win_x86.exe"></TocEntry>
+  <TocEntry
+    Title="WinMTR x64"
+    Link="/Content/Resources/downloads/MTR_win_x64.exe"></TocEntry>
+  <TocEntry
+    Title="DeviceMapper x86"
+    Link="/Content/Resources/downloads/DM_win_x86.msi" />
+  <TocEntry
+    Title="DeviceMapper x64"
+    Link="/Content/Resources/downloads/DM_win_x64.msi"></TocEntry>
+</CatapultToc>

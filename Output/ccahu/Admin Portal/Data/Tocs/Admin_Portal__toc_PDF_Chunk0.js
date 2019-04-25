@@ -1,0 +1,1 @@
+define({'https://view.vzaar.com/8591760/video':{i:[0],t:['Axis API PDF'],b:['']}});

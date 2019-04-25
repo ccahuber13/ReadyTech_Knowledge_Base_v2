@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" class="_Skins_HTML5___Side_Navigation" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../../" data-mc-has-content-body="True" data-mc-searchable="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="[%=System.LinkedTitle%]">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" class="_Skins_HTML5___Side_Navigation" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../../../" data-mc-has-content-body="True" data-mc-searchable="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta charset="utf-8" />
@@ -17,6 +17,26 @@
         <link href="../../../../../Skins/Fluid/Stylesheets/Tablet.css" rel="stylesheet" />
         <link href="../../../../../Skins/Fluid/Stylesheets/Mobile.css" rel="stylesheet" />
         <link href="../../../../Resources/css/styles.css" rel="stylesheet" />
+        <link href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet" />
+        <style>/*&lt;meta /&gt;*/
+
+.button.previous-topic-button
+{
+	-pie-background: url('../../../../../Skins/Default/Stylesheets/Images/navigate-previous.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
+}
+
+.button.next-topic-button
+{
+	-pie-background: url('../../../../../Skins/Default/Stylesheets/Images/navigate-next.png') no-repeat center center, linear-gradient(#ffffff, #ececec);
+}
+
+.needs-pie
+{
+	behavior: url('../../../../../Resources/Scripts/PIE-no-motw.htc');
+}
+
+</style>
         <script src="../../../../../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../../../../../Resources/Scripts/jquery.min.js">
@@ -30,6 +50,8 @@
         <script src="../../../../../Resources/Scripts/plugins.min.js">
         </script>
         <script src="../../../../../Resources/Scripts/MadCapAll.js">
+        </script>
+        <script src="../../../../Resources/js/rt_script.js">
         </script>
     </head>
     <body>
@@ -92,37 +114,71 @@
                             </div>
                             <div class="body-container">
                                 <div data-mc-content-body="True">
-                                    <div class="nocontent">
-                                        <div class="MCBreadcrumbsBox_0 breadcrumbs" data-mc-breadcrumbs-divider=" &gt; " data-mc-breadcrumbs-count="3" data-mc-toc="True"><span class="MCBreadcrumbsPrefix">You are here: </span>
-                                        </div>
-                                    </div>
-                                    <header>
-                                        <h1 id="Events" data-magellan-target="Events"><span class="AP/ap_vartop-events">Events</span>
-                                        </h1><a name="aanchor3"></a>
-                                        <MadCap:concept term="Admin Portal" /><a name="aanchor4"></a>
-                                        <MadCap:concept term="Events" />
-                                    </header>
-                                    <p>&#160;</p>
-                                    <section>
-                                        <article>
-                                            <p>Delete this text and replace it with your own content.</p>
-                                        </article>
-                                    </section>
-                                    <div class="MCRelationshipsProxy_0">
-                                        <p class="taskHeading_task_0">Related Tasks</p>
-                                        <p class="taskItem_task_0"><a href="creating_events.htm">Creating events</a>
-                                        </p>
-                                        <p class="referenceHeading_reference_0">Reference Materials</p>
-                                        <p class="referenceItem_reference_0"><a href="../policies/cancellation_policies.htm">Cancellation policies</a>
-                                        </p>
-                                    </div>
-                                    <p>&#160;</p>
-                                    <ul data-magellan="" data-animation-duration="250" data-active-class="selected" data-scroll-container=".body-container" data-scroll-container-on="only screen and (min-width: 1280px)" class="nocontent menu mc-component">
-                                        <li><a href="#Events">Events</a>
-                                        </li>
-                                    </ul>
-                                    <p>&#160;</p>
-                                    <p>&#160;</p>
+                                    <main class="grid-wrapper">
+                                        <section class="grid-wrapper__box1">
+                                            <section class="grid-wrapper__toc--mobile">
+                                                <p class="box2__headings">Table of contents <i class="fas fa-list fa-sm rt-icon"></i></p>
+                                                <ul data-magellan="" data-animation-duration="250" data-active-class="selected" data-scroll-container=".body-container" data-scroll-container-on="only screen and (min-width: 1280px)" class="nocontent menu mc-component">
+                                                    <li><a href="#Events">Events</a>
+                                                    </li>
+                                                </ul>
+                                            </section>
+                                            <header>
+                                                <h1 id="Events" data-magellan-target="Events"><span class="AP/ap_vartop-events">Events</span>
+                                                </h1><a name="aanchor3"></a>
+                                                <MadCap:concept term="Admin Portal" /><a name="aanchor4"></a>
+                                                <MadCap:concept term="Events" />
+                                            </header>
+                                            <p>&#160;</p>
+                                            <section>
+                                                <article>
+                                                    <p>Delete this text and replace it with your own content.</p>
+                                                </article>
+                                            </section>
+                                            <div class="buttons popup-container clearfix topicToolbarProxy mc-component nocontent" style="mc-topic-toolbar-items: PreviousTopic NextTopic;">
+                                                <div class="button-group-container-left">
+                                                    <button class="button needs-pie previous-topic-button" title="Navigate previous">
+                                                        <img src="../../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="previous topic" />
+                                                    </button>
+                                                    <button class="button needs-pie next-topic-button" title="Navigate next">
+                                                        <img src="../../../../../Skins/Default/Stylesheets/Images/transparent.gif" alt="next topic" />
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <aside class="grid-wrapper__box2">
+                                            <div class="sticky--rt">
+                                                <section class="grid-wrapper__toc--web">
+                                                    <p class="box2__headings">Table of contents <i class="fas fa-list fa-sm rt-icon"></i></p>
+                                                    <ul data-magellan="" data-animation-duration="250" data-active-class="selected" data-scroll-container=".body-container" data-scroll-container-on="only screen and (min-width: 1280px)" class="nocontent menu mc-component">
+                                                        <li><a href="#Events">Events</a>
+                                                        </li>
+                                                    </ul>
+                                                </section>
+                                                <section class="pdf-guides">
+                                                    <p class="box2__headings">PDF Guides <i class="fas fa-file-pdf fa-sm rt-icon"></i></p>
+                                                    <ul data-magellan="" data-animation-duration="250" data-active-class="selected" data-scroll-container=".body-container" data-scroll-container-on="only screen and (min-width: 1280px)" class="nocontent menu mc-component">
+                                                        <li><a href="#Events">Events</a>
+                                                        </li>
+                                                    </ul>
+                                                </section>
+                                                <section class="rel-links">
+                                                    <p class="box2__headings">Related links <i class="fas fa-link fa-sm rt-icon"></i></p>
+                                                    <div class="MCRelationshipsProxy_0">
+                                                        <p class="taskHeading_task_0">Related Tasks</p>
+                                                        <p class="taskItem_task_0"><a href="creating_events.htm">Creating events</a>
+                                                        </p>
+                                                        <p class="referenceHeading_reference_0">Reference Materials</p>
+                                                        <p class="referenceItem_reference_0"><a href="../policies/cancellation_policies.htm">Cancellation policies</a>
+                                                        </p>
+                                                    </div>
+                                                </section>
+                                            </div>
+                                        </aside>
+                                    </main>
+                                    <footer>
+                                        <p>© <span id="date"></span> <a href="https://www.readytech.com">ReadyTech Corp.</a> All Rights Reserved.</p>
+                                    </footer>
                                 </div>
                             </div>
                         </div>

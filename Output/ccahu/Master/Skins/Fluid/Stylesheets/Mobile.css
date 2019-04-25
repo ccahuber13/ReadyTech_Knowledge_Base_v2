@@ -25,8 +25,8 @@
 
 	.search-bar .search-filter
 	{
-		background: #42617a url('Images/filter-results-button_2.png') no-repeat center center;
-		-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_2.png') no-repeat center center;
+		background: #42617a url('Images/filter-results-button_3.png') no-repeat center center;
+		-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_3.png') no-repeat center center;
 	}
 
 	.search-input
@@ -92,12 +92,12 @@
 
 	.off-canvas
 	{
-		background-color: #f7f7f7;
+		background-color: #f9f9f9;
 	}
 
 	.off-canvas ul ul
 	{
-		background-color: #f7f7f7;
+		background-color: #f9f9f9;
 	}
 
 	ul.off-canvas-list li a
@@ -107,57 +107,57 @@
 
 	ul.off-canvas-list ul > li > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul > li > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li a.selected
@@ -187,8 +187,8 @@
 
 	.title-bar .menu-icon span
 	{
-		background: transparent url('Images/Menu.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
+		background: transparent url('Images/menu_5.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/menu_5.png') no-repeat center center;
 	}
 
 	nav.title-bar .menu-icon
@@ -344,14 +344,14 @@
 
 	.search-bar .search-filter.open
 	{
-		-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_2.png') no-repeat center center;
+		-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_3.png') no-repeat center center;
 		background-color: #f9951d;
 	}
 
 	.search-bar .search-filter:hover
 	{
-		background: #f9951d url('Images/filter-results-button-white.png') no-repeat center center;
-		-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/filter-results-button-white.png') no-repeat center center;
+		background: #f9951d url('Images/filter-results-button-white_2.png') no-repeat center center;
+		-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/filter-results-button-white_2.png') no-repeat center center;
 	}
 
 	.search-bar .search-filter.selected

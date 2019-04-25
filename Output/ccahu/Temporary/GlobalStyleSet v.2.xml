@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalStyleCache
-  SavedSource="file:///C:/KB/ReadyTech_Knowledge_Base_Dev/Output/ccahu/Temporary/GlobalStyleSet v.2.xml">
+  SavedSource="file:///C:/KB/New folder/ReadyTech_Knowledge_Base_v2_Dev/Output/ccahu/Temporary/GlobalStyleSet v.2.xml">
   <Media>
+    <Medium
+      Name="screen and (max-width: 1279px)" />
     <Medium
       Name="print" />
     <Medium
@@ -96,7 +98,14 @@
     <Tag
       Name="ol" />
     <Tag
-      Name="ul" />
+      Name="ul">
+      <Class
+        Name="menu" />
+      <Class
+        Name="mc-component" />
+      <Class
+        Name="navigation" />
+    </Tag>
     <Tag
       Name="img" />
     <Tag
@@ -104,9 +113,11 @@
       <Class
         Name="Popup" />
       <Class
-        Name="GlossaryPageTerm" />
-      <Class
         Name="MCBreadcrumbsLink" />
+      <Class
+        Name="selected" />
+      <Class
+        Name="GlossaryPageTerm" />
     </Tag>
     <Tag
       Name="MadCap|expandingHead" />
@@ -114,6 +125,13 @@
       Name="MadCap|expandingBody" />
     <Tag
       Name="MadCap|dropDownHotspot" />
+    <Tag
+      Name="header" />
+    <Tag
+      Name="nav">
+      <Class
+        Name="title-bar" />
+    </Tag>
     <Tag
       Name="MadCap|expanding" />
     <Tag
@@ -147,21 +165,26 @@
         Name="Highlighted" />
     </Tag>
     <Tag
-      Name="madcapEditorBehavior" />
+      Name="MadCap|relationshipsHeading">
+      <Class
+        Name="task" />
+      <Class
+        Name="reference" />
+      <Class
+        Name="concept" />
+    </Tag>
     <Tag
-      Name="select" />
+      Name="MadCap|relationshipsProxy" />
     <Tag
-      Name="input" />
+      Name="MadCap|relationshipsItem" />
     <Tag
-      Name="textarea" />
+      Name="MadCap|breadcrumbsProxy" />
     <Tag
-      Name="object" />
-    <Tag
-      Name="script" />
-    <Tag
-      Name="hr" />
+      Name="li" />
     <Tag
       Name="div">
+      <Class
+        Name="MCRelationshipsProxy_0" />
       <Class
         Name="GlossaryPageEntry" />
       <Class
@@ -177,6 +200,26 @@
       <Class
         Name="Row-8-4" />
     </Tag>
+    <Tag
+      Name="footer" />
+    <Tag
+      Name="article" />
+    <Tag
+      Name="button" />
+    <Tag
+      Name="madcapEditorBehavior" />
+    <Tag
+      Name="select" />
+    <Tag
+      Name="input" />
+    <Tag
+      Name="textarea" />
+    <Tag
+      Name="object" />
+    <Tag
+      Name="script" />
+    <Tag
+      Name="hr" />
     <Tag
       Name="span">
       <Class
@@ -262,8 +305,6 @@
     <Tag
       Name="dir" />
     <Tag
-      Name="li" />
-    <Tag
       Name="abbr" />
     <Tag
       Name="acronym" />
@@ -304,17 +345,9 @@
     <Tag
       Name="var" />
     <Tag
-      Name="article" />
-    <Tag
       Name="aside" />
     <Tag
       Name="canvas" />
-    <Tag
-      Name="footer" />
-    <Tag
-      Name="header" />
-    <Tag
-      Name="nav" />
     <Tag
       Name="q" />
     <Tag
@@ -350,8 +383,6 @@
     <Tag
       Name="colgroup" />
     <Tag
-      Name="button" />
-    <Tag
       Name="s" />
     <Tag
       Name="br" />
@@ -370,8 +401,6 @@
     <Tag
       Name="MadCap|pageBreak" />
     <Tag
-      Name="MadCap|breadcrumbsProxy" />
-    <Tag
       Name="MadCap|topicToolbarProxy" />
     <Tag
       Name="MadCap|miniTocProxy" />
@@ -385,19 +414,6 @@
       Name="MadCap|conceptsProxy" />
     <Tag
       Name="MadCap|glossaryProxy" />
-    <Tag
-      Name="MadCap|relationshipsProxy" />
-    <Tag
-      Name="MadCap|relationshipsHeading">
-      <Class
-        Name="concept" />
-      <Class
-        Name="task" />
-      <Class
-        Name="reference" />
-    </Tag>
-    <Tag
-      Name="MadCap|relationshipsItem" />
     <Tag
       Name="MadCap|endnotesProxy" />
     <Tag
@@ -534,22 +550,22 @@
   </Map>
   <SourceUrls>
     <Url
-      Source="resources/css/home_page.css" />
+      Source="Resources/css/home_page.css" />
     <Url
-      Source="resources/css/landing_page.css" />
+      Source="Resources/css/landing_page.css" />
     <Url
-      Source="resources/css/modern.css" />
+      Source="Resources/css/modern.css" />
     <Url
-      Source="resources/css/search_page.css" />
+      Source="Resources/css/search_page.css" />
     <Url
-      Source="resources/css/styles.css" />
+      Source="Resources/css/styles.css" />
     <Url
-      Source="resources/css/topic_page.css" />
+      Source="Resources/css/topic_page.css" />
     <Url
-      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/xhtml.css" />
+      Source="../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/xhtml.css" />
     <Url
-      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditor.css" />
+      Source="../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditor.css" />
     <Url
-      Source="../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
+      Source="../../../../Program Files/MadCap Software/MadCap Flare 15/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
   </SourceUrls>
 </CatapultGlobalStyleCache>

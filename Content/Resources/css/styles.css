@@ -171,6 +171,15 @@ ul.menu.mc-component
 	/* border: solid 1px #ddd; */
 }
 
+ul.menu.mc-component li > a:hover {
+	background-color: transparent;
+	color: #f9951d;
+}
+
+ul.menu.mc-component li > a.selected:hover {
+	background-color:transparent;
+}
+
 ul.menu.mc-component ul > li > a
 {
 	padding-left: 0;
@@ -197,6 +206,10 @@ div.MCRelationshipsProxy_0 a:visited
 div.MCRelationshipsProxy_0 a:hover
 {
 	color: #f9951d;
+}
+
+ul.menu.mc-component li > a {
+	line-height: 1.25rem;
 }
 
 ul.menu.mc-component li > a.selected
@@ -318,6 +331,8 @@ ul.navigation ul
 	background-image: url(../images/icons/arrow-button-open-orange.png);
 }
 
+
+
 /*====================================================================
 	ReadyTech added styles
 ====================================================================*/
@@ -392,12 +407,36 @@ ul.navigation ul
 	Components
 */
 
-.rt-icon
+.rt-icon__pdf
+{
+	color: #004276;
+    float: right;
+    padding-right: 10px;
+    font-size: 1.4rem!important;
+}
+
+.rt-icon__link
 {
 	color: #004276;
     float: right;
     padding-right: 10px;
     font-size: 1.1rem!important;
+}
+
+.rt-icon__video
+{
+	color: #004276;
+    float: right;
+    padding-right: 10px;
+    font-size: 1.35rem!important;
+}
+
+.rt-icon__downloads
+{
+	color: #004276;
+    float: right;
+    padding-right: 10px;
+    font-size: 1.35rem!important;
 }
 
 .note

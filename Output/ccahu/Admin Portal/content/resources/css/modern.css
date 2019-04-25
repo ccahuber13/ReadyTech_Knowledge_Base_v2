@@ -51,21 +51,21 @@ a
 
 MadCap|expanding
 {
-	mc-open-image: url('../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/minus.png');
-	mc-closed-image: url('../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/plus.png');
+	mc-open-image: url('../../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/minus.png');
+	mc-closed-image: url('../../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/plus.png');
 	mc-image-position: left;
 }
 
 MadCap|dropDown
 {
-	mc-open-image: url('../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/minus.png');
-	mc-closed-image: url('../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/plus.png');
+	mc-open-image: url('../../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/minus.png');
+	mc-closed-image: url('../../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/plus.png');
 }
 
 MadCap|toggler
 {
-	mc-open-image: url('../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/minus.png');
-	mc-closed-image: url('../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/plus.png');
+	mc-open-image: url('../../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/minus.png');
+	mc-closed-image: url('../../../../../../program files/madcap software/madcap flare 15/flare.app/resources/images/webhelp/plus.png');
 	color: inherit;
 }
 

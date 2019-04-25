@@ -6,7 +6,7 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0"
-  FileDescription="Learn about ReadyTech cancellation policies regarding events and access codes.">
+  FileDescription="Learn about ReadyTech policies regarding cancelling events and access codes.">
   <Links>
     <Link
       Url="Project/Advanced/File Tags/Product.flfts" />
@@ -16,6 +16,10 @@
       Url="Project/VariableSets/AP/ap_var.flvar" />
     <Link
       Url="Content/Resources/css/styles.css" />
+    <Link
+      Url="https://view.vzaar.com/6082574/video" />
+    <Link
+      Url="Content/Products/Admin-Portal/topics/events/sessions.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -26,6 +30,10 @@
       Url="Project/VariableSets/AP/ap_var.flvar" />
     <Link
       Url="Content/Resources/css/styles.css" />
+    <Link
+      Url="https://view.vzaar.com/6082574/video" />
+    <Link
+      Url="Content/Products/Admin-Portal/topics/events/sessions.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -39,7 +47,7 @@
       Term="Admin Portal"
       Conditions=""
       LocalConditions=""
-      Position="10" />
+      Position="7" />
   </Concepts>
   <ConceptControlNames />
   <IndexControlNames />
@@ -51,8 +59,6 @@
   <FileTags>
     <Tag
       Name="File Tags/Product.product_landing_page" />
-    <Tag
-      Name="File Tags/Product.Admin Portal" />
   </FileTags>
   <AllConditions />
   <Stylesheets>

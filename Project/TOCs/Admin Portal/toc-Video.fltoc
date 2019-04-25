@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Default.Admin Portal">
+  <TocEntry
+    Title="Getting started using Admin Portal"
+    Link="https://view.vzaar.com/8591760/video"
+    ReplaceMergeNode="false"
+    FrameName="_blank"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Creating and using deployments"
+    Link="https://view.vzaar.com/6750835/video"
+    FrameName="_blank"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="Cancellation policies"
+    FrameName="_blank"
+    Link="https://view.vzaar.com/6082574/video"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="Creating users"
+    Link="https://view.vzaar.com/8248990/video"
+    FrameName="_blank"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="Using templates and linking materials"
+    FrameName="_blank"
+    Link="https://view.vzaar.com/6710869/video"
+    StartSection="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="Managing image and FTP storage"
+    FrameName="_blank"
+    Link="https://view.vzaar.com/8391902/video"
+    StartSection="false"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="About images, deployments and templates"
+    Link="https://view.vzaar.com/8938342/video"
+    FrameName="_blank"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="Uploading images"
+    FrameName="_blank"
+    Link="https://view.vzaar.com/9144998/video"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="Assigning access codes"
+    FrameName="_blank"
+    Link="https://view.vzaar.com/9443280/video"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="Creating new billing entities"
+    Link="https://view.vzaar.com/8847416/video"
+    FrameName="_blank"
+    ReplaceMergeNode="false"></TocEntry>
+</CatapultToc>

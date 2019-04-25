@@ -2,35 +2,34 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
         <link href="../css/styles.css" rel="stylesheet" type="text/css" />
+        <link href="../../Resources/css/home_page.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet" />
+        <script src="../js/rt_script.js">
+        </script>
     </head>
     <body>
-        
-        
-            <main class="grid-wrapper">
-                <section class="grid-wrapper__box1">
-                    <MadCap:breadcrumbsProxy />
-                    <MadCap:bodyProxy />
-                </section>
-                <aside class="grid-wrapper__box2">
-                    <section class="toc">
-                        <p>Table of contents</p>
-                        <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
-                    </section>
-
+        <main class="grid-wrapper">
+            <section class="grid-wrapper__box1">
+                <MadCap:bodyProxy />
+            </section>
+            <aside class="grid-wrapper__box2">
+                <div class="sticky--rt">
                     <section class="pdf-guides">
-                        <p>PDF Guides</p>
-                        <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                        <p class="box2__headings">PDF Guides <i class="rt-icon__pdf far fa-file-pdf fa-sm"></i></p>
+                        <MadCap:menuProxy mc-linked-toc="/Project/TOCs/Admin Portal/toc-PDF.fltoc" style="mc-toc-depth: 3;mc-context-sensitive: False;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
                     </section>
-
-
                     <section class="rel-links">
-                        <p>Related links</p>
-                        <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                        <p class="box2__headings">Videos<i class=" rt-icon__video far fa-play-circle"></i></p>
+                        <MadCap:menuProxy mc-linked-toc="/Project/TOCs/Admin Portal/toc-Video.fltoc" style="mc-toc-depth: 3;mc-context-sensitive: False;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
                     </section>
-
-                </aside>
-            </main>
-    
+                    <section class="rel-links">
+                        <p class="box2__headings">Downloads<i class=" rt-icon__downloads fas fa-download"></i></p>
+                        <MadCap:menuProxy mc-linked-toc="/Project/TOCs/Admin Portal/toc-Downloads.fltoc" style="mc-toc-depth: 3;mc-context-sensitive: False;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                    </section>
+                </div>
+            </aside>
+        </main>
         <MadCap:snippetBlock src="../snippets/rt-footer.flsnp" />
     </body>
 </html>

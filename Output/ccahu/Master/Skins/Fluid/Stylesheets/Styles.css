@@ -258,8 +258,9 @@ ul.navigation ul > li:hover
 
 ul.sidenav li a:hover
 {
-	font-weight: bold;
-	background-color: #ddd;
+	color: #f9951d;
+	font-weight: normal;
+	background-color: transparent;
 }
 
 #resultList .glossary .term a:hover
@@ -285,22 +286,22 @@ ul.sidenav li a:hover
 
 ul.sidenav ul > li > a:hover
 {
-	background-color: #ddd;
+	background-color: transparent;
 }
 
 ul.sidenav ul ul > li > a:hover
 {
-	background-color: #ddd;
+	background-color: transparent;
 }
 
 ul.sidenav ul ul ul > li > a:hover
 {
-	background-color: #ddd;
+	background-color: transparent;
 }
 
 ul.sidenav ul ul ul ul > li > a:hover
 {
-	background-color: #ddd;
+	background-color: transparent;
 }
 
 ul.navigation li > a:hover
@@ -359,8 +360,8 @@ nav.title-bar
 	padding: 10px 0;
 	line-height: inherit;
 	display: block;
-	padding-top: 0.5rem;
-	padding-bottom: 0.5rem;
+	padding-top: 0.25rem;
+	padding-bottom: 0.25rem;
 	background-color: #004276;
 }
 
@@ -512,8 +513,8 @@ nav.title-bar .menu-icon
 	border-right: solid 0px #d3d3d3;
 	border-left: solid 0px #555555;
 	width: 35px;
-	background: #42617a url('Images/filter-results-button_2.png') no-repeat center center;
-	-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_2.png') no-repeat center center;
+	background: #42617a url('Images/filter-results-button_3.png') no-repeat center center;
+	-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_3.png') no-repeat center center;
 }
 
 .search-bar .search-filter.selected
@@ -524,7 +525,7 @@ nav.title-bar .menu-icon
 
 .search-bar .search-filter.open
 {
-	-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_2.png') no-repeat center center;
+	-pie-background: #42617a url('Skins/Fluid/Stylesheets/Images/filter-results-button_3.png') no-repeat center center;
 	color: #ffffff;
 	font-family: Arial;
 	background-color: #f9951d;
@@ -868,8 +869,8 @@ html.pulseTopic .main-section .row.outer-row
 
 .search-bar .search-filter:hover
 {
-	background: #f9951d url('Images/filter-results-button-white.png') no-repeat center center;
-	-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/filter-results-button-white.png') no-repeat center center;
+	background: #f9951d url('Images/filter-results-button-white_2.png') no-repeat center center;
+	-pie-background: #f9951d url('Skins/Fluid/Stylesheets/Images/filter-results-button-white_2.png') no-repeat center center;
 }
 
 #resultList .glossary .definition
@@ -1104,7 +1105,7 @@ ul.sidenav li a
 	padding-top: 0.67rem;
 	padding-bottom: 0.67rem;
 	color: #000000;
-	font-family: Arial;
+	font-family: Roboto;
 	font-size: 1rem;
 	line-height: 1em;
 }

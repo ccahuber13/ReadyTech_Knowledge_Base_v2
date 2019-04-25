@@ -88,3 +88,32 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
+.sidenav-wrapper {
+	display:none;
+}
+
+.body-container {
+	margin: 0;
+	padding: 0;
+}
+
+header h1 {
+	color: #fff;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0;
+	padding: 3rem 5rem 7rem 5rem;
+    text-align: center;
+    background-color: #004276;
+}
+
+.title-bar-container {
+	box-shadow: none;
+}
+
+nav.title-bar {
+	padding-top: 1rem;
+}
+.nav-search {
+	display:none;
+}

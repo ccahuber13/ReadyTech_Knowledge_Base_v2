@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MadCapSynonyms xml:lang="en-us">
+    <Groups>
+        <SynonymGroup>
+            <Word>cancel</Word>
+            <Word>cancellation</Word>
+            <Word>canceling</Word>
+            <Word>cancelled</Word>
+        </SynonymGroup>
+        <SynonymGroup Stem="true">
+            <Word Stem="event">event</Word>
+            <Word Stem="class">class</Word>
+        </SynonymGroup>
+        <SynonymGroup Stem="true">
+            <Word Stem="access cod">access code</Word>
+            <Word Stem="seat">seat</Word>
+            <Word Stem="student seat">student seat</Word>
+        </SynonymGroup>
+    </Groups>
+    <Directional>
+        <DirectionalSynonym From="Instructor-Led Portal" To="ilp" />
+        <DirectionalSynonym From="Self-Paced Portal" To="spp" />
+        <DirectionalSynonym From="Admin Portal" To="ap" />
+        <DirectionalSynonym From="ClassManager" To="cm" />
+        <DirectionalSynonym From="LabManager" To="lm" />
+        <DirectionalSynonym From="DeviceMapper" To="dm" />
+        <DirectionalSynonym From="ReadyTech Viewer" To="rtviewer" />
+        <DirectionalSynonym From="SubmitWork" To="sw" />
+        <DirectionalSynonym From="Training Management System" To="tms" />
+        <DirectionalSynonym From="PortalHelper" To="ph" />
+        <DirectionalSynonym From="LabTracker" To="lt" />
+        <DirectionalSynonym From="Instructor-Led Training" To="ilt" />
+    </Directional>
+</MadCapSynonyms>

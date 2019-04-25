@@ -16,6 +16,9 @@
         <link href="../Skins/Fluid/Stylesheets/Tablet.css" rel="stylesheet" />
         <link href="../Skins/Fluid/Stylesheets/Mobile.css" rel="stylesheet" />
         <link href="Resources/css/styles.css" rel="stylesheet" />
+        <link href="Resources/css/home_page.css" rel="stylesheet" />
+        <link href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet" />
         <script src="../Resources/Scripts/custom.modernizr.js">
         </script>
         <script src="../Resources/Scripts/jquery.min.js">
@@ -29,6 +32,8 @@
         <script src="../Resources/Scripts/plugins.min.js">
         </script>
         <script src="../Resources/Scripts/MadCapAll.js">
+        </script>
+        <script src="Resources/js/rt_script.js">
         </script>
     </head>
     <body>
@@ -100,22 +105,27 @@
                                             </div>
                                         </section>
                                         <aside class="grid-wrapper__box2">
-                                            <section class="toc">
-                                                <p>Table of contents</p>
-                                                <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
-                                            </section>
-                                            <section class="pdf-guides">
-                                                <p>PDF Guides</p>
-                                                <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
-                                            </section>
-                                            <section class="rel-links">
-                                                <p>Related links</p>
-                                                <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
-                                            </section>
+                                            <div class="sticky--rt">
+                                                <section class="pdf-guides">
+                                                    <p class="box2__headings">PDF Guides <i class="rt-icon__pdf far fa-file-pdf fa-sm"></i></p>
+                                                    <ul class="nocontent menu mc-component" data-mc-linked-toc="Data/Tocs/Admin_Portal__toc_PDF.js" data-mc-side-menu="True" data-mc-max-depth="3" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
+                                                    </ul>
+                                                </section>
+                                                <section class="rel-links">
+                                                    <p class="box2__headings">Videos<i class=" rt-icon__video far fa-play-circle"></i></p>
+                                                    <ul class="nocontent menu mc-component" data-mc-linked-toc="Data/Tocs/Admin_Portal__toc_Video.js" data-mc-side-menu="True" data-mc-max-depth="3" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
+                                                    </ul>
+                                                </section>
+                                                <section class="rel-links">
+                                                    <p class="box2__headings">Downloads<i class=" rt-icon__downloads fas fa-download"></i></p>
+                                                    <ul class="nocontent menu mc-component" data-mc-linked-toc="Data/Tocs/Admin_Portal__toc_Downloads.js" data-mc-side-menu="True" data-mc-max-depth="3" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
+                                                    </ul>
+                                                </section>
+                                            </div>
                                         </aside>
                                     </main>
                                     <footer>
-                                        <p>© 2019 <a href="https://www.readytech.com">ReadyTech Corp.</a> All Rights Reserved.</p>
+                                        <p>© <span id="date"></span> <a href="https://www.readytech.com">ReadyTech Corp.</a> All Rights Reserved.</p>
                                     </footer>
                                 </div>
                             </div>

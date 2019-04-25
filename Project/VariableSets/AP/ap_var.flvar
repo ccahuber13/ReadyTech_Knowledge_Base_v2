@@ -1,6 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultVariableSet fileTags="File Tags/Product.Admin&#160;Portal" conditions="Default.Admin Portal">
-    <Variable Comment="" Name="top-cancellationPolicies" EvaluatedDefinition="Cancellation policies">Cancellation policies</Variable>
-    <Variable Name="top-events" Comment="" EvaluatedDefinition="Events">Events</Variable>
-    <Variable Name="top-creatingEvents" Comment="" EvaluatedDefinition="Creating events">Creating events</Variable>
+<CatapultVariableSet
+  fileTags="File Tags/Product.Admin Portal"
+  conditions="Default.Admin Portal">
+  <Variable
+    Comment=""
+    Name="top-cancellationPolicies"
+    EvaluatedDefinition="Cancellation policies">Cancellation policies</Variable>
+  <Variable
+    Name="top-events"
+    Comment=""
+    EvaluatedDefinition="Events">Events</Variable>
+  <Variable
+    Name="top-creatingEvents"
+    Comment=""
+    EvaluatedDefinition="Creating events">Creating events</Variable>
+  <Variable
+    Name="ap-video-menu"
+    Comment=""
+    EvaluatedDefinition="&lt;MadCap:menuProxy mc-linked-toc=&quot;/Project/TOCs/Admin Portal/Toc-Video.fltoc&quot; style=&quot;mc-toc-depth: 3;mc-context-sensitive: False;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;&quot; /&gt;">&lt;MadCap:menuProxy mc-linked-toc="/Project/TOCs/Admin Portal/Toc-Video.fltoc" style="mc-toc-depth: 3;mc-context-sensitive: False;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" /&gt;</Variable>
 </CatapultVariableSet>
