@@ -1,1 +1,1 @@
-define({'Admin Portal':{c:'Admin Portal', cm:'', o:0},'Instructor-Led Portal':{c:'Instructor-Led Portal', cm:'', o:1},'Self-Paced Portal':{c:'', cm:'', o:10},'LabManager':{c:'', cm:'', o:2},'Axis':{c:'', cm:'', o:9},'ClassManager':{c:'', cm:'', o:8},'Saas Labs':{c:'', cm:'', o:7},'S.T.E.P':{c:'', cm:'', o:6},'TMS':{c:'', cm:'', o:5},'Support':{c:'', cm:'', o:4},'Troubleshooting':{c:'', cm:'', o:3},})
+define({'Events':{c:'Events', cm:'', o:0},})

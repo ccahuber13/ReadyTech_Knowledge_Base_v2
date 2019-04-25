@@ -4,6 +4,5 @@
   conditions="Default.LabManager"
   fileTags="File Tags/Product.LabManager">
   <TocEntry
-    Title="Axis API PDF"
-    Link="../../../Content/Resources/AxisAPIDoc.pdf"></TocEntry>
+    Title="Axis API PDF"></TocEntry>
 </CatapultToc>

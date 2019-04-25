@@ -4,6 +4,5 @@
   conditions="Default.Instructor-Led Portal"
   fileTags="File Tags/Product.Instructor-Led Portal">
   <TocEntry
-    Title="Axis API PDF"
-    Link="../../../Content/Resources/AxisAPIDoc.pdf"></TocEntry>
+    Title="Axis API PDF"></TocEntry>
 </CatapultToc>

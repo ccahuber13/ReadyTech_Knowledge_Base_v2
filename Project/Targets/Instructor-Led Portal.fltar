@@ -12,7 +12,6 @@
   MakeFileLowerCase="false"
   MasterPage="/Content/Resources/master_pages/home.flmsp"
   MasterToc="/Project/TOCs/Instructor-Led Portal/Instructor-Led Portal.fltoc"
-  DefaultUrl="/Content/Products/Instructor-Led-Portal/instructor_led_portal_home.htm"
   UseEmptyAltText="true"
   PartialWordSearch="true"
   MinimumWordSize="3"

@@ -16,6 +16,7 @@
         <link href="../Skins/Fluid/Stylesheets/Tablet.css" rel="stylesheet" />
         <link href="../Skins/Fluid/Stylesheets/Mobile.css" rel="stylesheet" />
         <link href="Resources/css/styles.css" rel="stylesheet" />
+        <link href="Resources/css/home_page.css" rel="stylesheet" />
         <link href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet" />
         <script src="../Resources/Scripts/custom.modernizr.js">
@@ -104,15 +105,17 @@
                                             </div>
                                         </section>
                                         <aside class="grid-wrapper__box2">
-                                            <section class="pdf-guides">
-                                                <p class="box2__headings">PDF Guides <i class="fas fa-file-pdf fa-sm rt-icon"></i></p>
-                                                <ul class="nocontent menu mc-component" data-mc-linked-toc="Data/Tocs/Admin_Portal__AP_Documents.js" data-mc-side-menu="True" data-mc-max-depth="3" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
-                                                </ul>
-                                            </section>
-                                            <section class="rel-links">
-                                                <p class="box2__headings">Related links <i class="fas fa-link fa-sm rt-icon"></i></p>
-                                                <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
-                                            </section>
+                                            <div class="sticky--rt">
+                                                <section class="pdf-guides">
+                                                    <p class="box2__headings">PDF Guides <i class="rt-icon fas fa-file-pdf fa-sm"></i></p>
+                                                    <ul class="nocontent menu mc-component" data-mc-linked-toc="Data/Tocs/Admin_Portal__AP_Documents.js" data-mc-side-menu="True" data-mc-max-depth="3" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
+                                                    </ul>
+                                                </section>
+                                                <section class="rel-links">
+                                                    <p class="box2__headings">Related links <i class=" rt-icon fas fa-link fa-sm"></i></p>
+                                                    <MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                                                </section>
+                                            </div>
                                         </aside>
                                     </main>
                                     <footer>

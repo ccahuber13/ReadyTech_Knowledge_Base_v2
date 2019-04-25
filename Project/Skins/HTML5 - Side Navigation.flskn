@@ -42,6 +42,18 @@
         Name="filter-results-button_3.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gIgzMECJLf+Mn8FpFjSHX0dGRg29nP/SWQF8hWSPYJ8GRiq1BgYGloYGH4BhRpeMDCUGjAwvEpgYLCawcAgXjBnV6ANUIIpydvdhYFhVa+yEZDHWeARWQy06ToIMzppzK4ACrKXePq6sj9mEWdiZ97YJlkJFJrj6eIYonF+ab811yEHEdfzPcYLeptaI7jDvu3ikpae/pAvZpLCLs5cVUeOiIiOiAgWFs9nyYICPM3NFbfKd3y3+yFeGHGk5XS5Y2eqimKmO0vDkvTfL24tzYlxNw9gyNNJK8k+dHftjaaevSsZntyb5yz6nld0ps7suEaDX5Yl8pyiy56q8RyYf6bP3WGDrH06V84bQw2RnXGTmSInHl/2/xB3rYxOxJLl5fpAd6qWuEaUpCSWpFolF6UCKQYjA0NLXQMTXSPjEAMDKwNzKwNjbQMjKwODnZv/bkfRkJufkplWiVvDiXeu3EANkiANwflpJeWJRakM5eXlepl52cXJiQWpevlF6bPf2UgBFTF4uvq5rHNKaAIAPzjgNc4BAAA=</Resource>
       <Resource
         Name="filter-results-button-white_2.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gIgzMECJLf+Mn8FpFjSHX0dGRg29nP/SWQF8hWSPYJ8GRiq1BgYGloYGH4BhRpeMDCUGjAwvEpgYLCawcAgXjBnV6ANUIIpydvdhYFhVa+yEZDHWeARWczAwHcEhBmnavNJAwXZSzx9Xdkfs4gz8bApSZjYAoXCPF0cQzTOJycsEDH4x6+65IG9IquryO6mCcqSEhIS/6qNzxxRmn5ux9TGxs5reg27GNn+uRt4GBoY2CTHNDp//f/4PxhYbJLg7urKYktkY2vbfqVUheGZrvCl4J+i+UAbVEtcI0pSEktSrZKLUoEUg5GBoaWugYmukXGIgYGVoZGVgZm2AZA0OKNzbAqKhtz8lMy0Stwa9hbWaQA1SII0BOenlZQnFqUylJeX62XmZRcnJxak6uUXpc9+ZyMFVMTg6ernss4poQkAJJ37/IgBAAA=</Resource>
+      <Resource
+        Name="menu.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gogzMIMJBtD0o8DKZZ0R19HBoaN/dx/EllBkskeQb4MDFVqDAwNLQwMv4BCDS8YGEoNGBheJTAwWM1gYBAvmLMr0AYoIRHgE+IKpH9Olf0/RwZIwhFQ0P1lxUsgxVYS5BfM8F3o785n6y8s+w4UYUzydndh6GCV9QByOAs8IosZGPiOgDDjVG0+aaAge4mnryv7YxYJMR5tle7iTUAha08XxxCN88kezsw8JkICQU3MrhsaGJhlDJpYfWIeHJhZ9s6Dt7XZ4M27AwIHLjgJtydWyB+WlXD0aJ/BzHBUd+1tpYBzO4DGqJa4RpSkJJakWiUXpQIpBiMDQ0tdAxNdI5MQIwMrQyMrE2NtAyMrAwO2k7cFUTTk5qdkplXi1lA+JXktUIMkSENwflpJeWJRKkN5ebleZl52cXJiQapeflH67Hc2UkBFDJ6ufi7rnBKaAMlG/veiAQAA</Resource>
+      <Resource
+        Name="menu_1.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gogzMECJG8Wb6oHUizpjr6ODAwb+7n/JLKCJJM9gnwZGKrUGBgaWhgYfgGFGl4wMJQaMDC8SmBgsJrBwCBeMGdXoA1QginJ292FgWFVr7IRkMdZ4BFZDLTpOggzOmnMrgAKspd4+rqyP2aREOOV/aR1PQso9MjTxTHE4/jZq/ZZTI4ixz++jw6bfMvpygpL5z6FDvdtAgeVK1hUX22KWBIm/ix9ocUmsb7Nh9JWZT47/NvcZvKKkqAH7baGPRfTZjJVf/J4INU4wZWByTFoLVM+w6VoB2e3GtZ9tzZuuC/k4NScpnDhw8RqhfRT7goFT94zbmCO9OF99d7pb8P85if7LP37FhuEM/1IO6QgcMMg+esyEZ9F7nlVtqySskb2Hn3JPixft2+sO8B/SX1t+L7Nsl4Msse+MDfqFl9LPRBYwMXCdeet3krt7pNxy9Z9sd+VcERHzeAN0xbFqp1Jodd/S36Z73jNa9kcOaBvVUtcI0pSEktSrZKLUoEUg5GBoaWugYmukUmIkYGVobGVkaW2gZGVgUG3yLNnKBpy81My0ypxa/jlGRcF1CAJ0hCcn1ZSnliUylBeXq6XmZddnJxYkKqXX5Q++52NFFARg6ern8s6p4QmAKAp2IgUAgAA</Resource>
+      <Resource
+        Name="menu_2.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0hIgzMECJL3qvhYDKZZ0R19HBoaN/dx/ElmBfIVkjyBfBoYqNQaGhhYGhl9AoYYXDAylBgwMrxIYGKxmMDCIF8zZFWgDlGBK8nZ3YWBY1atsBORxFnhEAk3kvQ7CjE4asyuAguwlnr6u7I9ZJMT4rGp4DQ8BhVZ5ujiGWJw+O2Uj1yEDEVd/5xaFF5c2ds/+17T4gbg1t+zdubfOLk2e3hEV0OQc7et4KXzpg+hJD+UmMU8XL1Q8rCh91GvyxqVCTG17jwUWCjM9mGJxqyfv3IwWT4Xy5Qu+NLbwbmYoUHvLpF62/vfyyisfzRM2GrUfvPSYee3hSaaXHd6davyzXPzTrP/sL9fLPjuy9+oGuw0CU96/YGbNzN9rHa9126xPYa3Boy2Ors7XzwgruWrUTMv+XAN0tWqJa0RJSmJJqlVyUSqQYjAyMLTUNTDRNTIJMTKwMjSxMrXQNjCyMjA4WvXfCEVDbn5KZlolbg1b1N37gBokQRqC89NKyhOLUhnKy8v1MvOyi5MTC1L18ovSZ7+zkQIqYvB09XNZ55TQBAAPkEP13AEAAA==</Resource>
+      <Resource
+        Name="menu_3.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gogzMECJG8Wb6oHUizpjr6ODAwb+7n/JLKCJJM9gnwZGKrUGBgaWhgYfgGFGl4wMJQaMDC8SmBgsJrBwCBeMGdXoA1QginJ292FgWFVr7IRkMdZ4BFZzMDAdwSEGadq80kDBdlLPH1d2R+zSIgJ8Ap8XC0EFGr3dHEM8Tj+dspG3kMOAizPfdzYBS617nZg6fh3oCXvsK/EqgeHP08Sus9m8eHJ51u1a/n++b7w8A/fMlnzy6MUlhnOn7RCDv+32RBRV2Zzcte5B2Y3GJzMzz011elZeOwex4VrBk/Tfs6/MLW7kN9t+0G2BjmvUM+7zpm9mtcNnm5/en4hs+3uV/wGO3lr9smdS55TqNzXA3SSaolrRElKYkmqVXJRKpBiMDIwtNQ1MNE1MgkxMrAyNLMyNNY2MLIyMHA/VMqPoiE3PyUzrRK3BrP5ZzcDNUiCNATnp5WUJxalMpSXl+tl5mUXJycWpOrlF6XPfmcjBVTE4Onq57LOKaEJAMEE7Ke5AQAA</Resource>
+      <Resource
+        Name="menu_4.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gIgzMECJLf+Mn8FpFjSHX0dGRg29nP/SWQF8hWSPYJ8GRiq1BgYGloYGH4BhRpeMDCUGjAwvEpgYLCawcAgXjBnV6ANUIIpydvdhYFhVa+yEZDHWeARWczAwHcEhBmnavNJAwXZSzx9Xdkfs0iICehtmnYLaAJDoKeLY4jG+eQEBQaJ/+XGJx5PrD/x4799nfAMCblHU4/re4sk/Mk/rNDp/k/y8f94njUVIn/SlHJaTZtF7LQ1vrMe/t/+/2MjO0vzrNaF7PUpgiVMDF2fDT7zn929Ami4aolrRElKYkmqVXJRKpBiMDIwtNQ1MNE1MgkxMrAyNLMyMdM2MLIyMIiVCjmDoiE3PyUzrRK3Bh33NwVADZIgDcH5aSXliUWpDOXl5XqZednFyYkFqXr5Remz39lIARUxeLr6uaxzSmgCAOZF/WiDAQAA</Resource>
+      <Resource
+        Name="menu_5.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0hIgzMECJL3qvhYDKZZ0R19HBoaN/dx/ElmBfIVkjyBfBoYqNQaGhhYGhl9AoYYXDAylBgwMrxIYGKxmMDCIF8zZFWgDlGBK8nZ3YWBY1atsBORxFnhEAk3kOwLCjFO1+aSBguwlnr6u7I9ZJMQE2eZZON8GChl4ujiGWJxOTlhg+aP+lb3mA5bH//8viTzgsqp7hoTfxCX/WN4yd/IlmMixsUv0sisxMLwMnPEmKXHSQqBe1RLXiJKUxJJUq+SiVCDFYGRgaKlrYKJrZBJiZGBlaG5lYKZtYGRlYGA2yZADRUNufkpmWiVuDe7nO7cANUiCNATnp5WUJxalMpSXl+tl5mUXJycWpOrlF6XPfmcjBVTE4Onq57LOKaEJACjK4ZtiAQAA</Resource>
     </Resources>
     <Styles>
       <Style
@@ -257,13 +269,21 @@
           <Properties>
             <Property
               Name="Order">2</Property>
+            <Property
+              Name="BorderBottomLeftRadius">0px</Property>
+            <Property
+              Name="BorderBottomRightRadius">0px</Property>
+            <Property
+              Name="BorderTopRightRadius">0px</Property>
+            <Property
+              Name="BorderTopLeftRadius">0px</Property>
           </Properties>
         </Style>
         <Style
           Name="Navigation Panel">
           <Properties>
             <Property
-              Name="BackgroundColor">#f7f7f7</Property>
+              Name="BackgroundColor">#f9f9f9</Property>
           </Properties>
         </Style>
         <Style
@@ -272,22 +292,78 @@
             <Property
               Name="Color">#000000</Property>
             <Property
-              Name="BorderBottom">solid 0px #262626</Property>
+              Name="FontFamily">Roboto</Property>
             <Property
-              Name="FontSize">1rem</Property>
+              Name="FontSize">0.9rem</Property>
+            <Property
+              Name="TextIndent">0px</Property>
+            <Property
+              Name="WhiteSpace">normal</Property>
+            <Property
+              Name="MarginLeft">0px</Property>
             <Property
               Name="LineHeight">1rem</Property>
+            <Property
+              Name="MarginBottom">-8px</Property>
+            <Property
+              Name="BorderRight">solid 0px #dddddd</Property>
+            <Property
+              Name="BorderLeft">solid 0px #dddddd</Property>
+            <Property
+              Name="BorderBottom">solid 0px #dddddd</Property>
           </Properties>
+          <Classes>
+            <StyleClass
+              Name="1st Level">
+              <Properties>
+                <Property
+                  Name="BackgroundColor">transparent</Property>
+                <Property
+                  Name="LineHeight">1rem</Property>
+                <Property
+                  Name="TextIndent">0px</Property>
+                <Property
+                  Name="MarginTop">0px</Property>
+                <Property
+                  Name="MarginBottom">-8px</Property>
+                <Property
+                  Name="MarginLeft">1em</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="2nd Level">
+              <Properties>
+                <Property
+                  Name="MarginLeft">2em</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="Back">
+              <Properties>
+                <Property
+                  Name="BackgroundColor">transparent</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="Expander Icon">
+              <Properties>
+                <Property
+                  Name="ExpanderBorderColor">#aaa</Property>
+                <Property
+                  Name="ExpanderBorderWidth">6px</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
         </Style>
         <Style
           Name="Navigation Panel Item (hover)">
           <Properties>
             <Property
-              Name="BackgroundColor">#dfdfdf</Property>
+              Name="Color">#f9951d</Property>
             <Property
-              Name="FontWeight">bold</Property>
+              Name="FontWeight">normal</Property>
             <Property
-              Name="Color">#000000</Property>
+              Name="BackgroundColor">transparent</Property>
           </Properties>
         </Style>
         <Style
@@ -295,6 +371,22 @@
           <Properties>
             <Property
               Name="BackgroundColor">#dfdfdf</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Navigation Slide Out Button">
+          <Properties>
+            <Property
+              Name="BackgroundImage">url('menu_5.png')</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Header">
+          <Properties>
+            <Property
+              Name="PaddingBottom">10px</Property>
+            <Property
+              Name="PaddingTop">10px</Property>
           </Properties>
         </Style>
       </Medium>

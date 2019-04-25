@@ -1,1 +1,1 @@
-define({'Admin Portal':[0,2,3,5,1],'ClassManager':[4],'Events':[2,2,3,5,1],'Instructor-Led Portal':[4],'SaaS Labs':[4],});
+define({'Admin Portal':[2,3,6,8,5,7,1,4],'Events':[2,2,3,5,1],});

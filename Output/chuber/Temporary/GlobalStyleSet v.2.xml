@@ -3,7 +3,7 @@
   SavedSource="file:///C:/ReadyTech/Knowledge_Base/ReadyTech_Knowledge_Base_v2_Dev/Output/chuber/Temporary/GlobalStyleSet v.2.xml">
   <Media>
     <Medium
-      Name="screen and (min-width: 1150px)" />
+      Name="screen and (max-width: 1279px)" />
     <Medium
       Name="print" />
     <Medium
@@ -103,6 +103,8 @@
         Name="menu" />
       <Class
         Name="mc-component" />
+      <Class
+        Name="navigation" />
     </Tag>
     <Tag
       Name="img" />
@@ -156,6 +158,19 @@
         Name="Highlighted" />
     </Tag>
     <Tag
+      Name="MadCap|relationshipsHeading">
+      <Class
+        Name="task" />
+      <Class
+        Name="reference" />
+      <Class
+        Name="concept" />
+    </Tag>
+    <Tag
+      Name="MadCap|relationshipsProxy" />
+    <Tag
+      Name="MadCap|relationshipsItem" />
+    <Tag
       Name="MadCap|breadcrumbsProxy" />
     <Tag
       Name="li" />
@@ -181,18 +196,11 @@
     <Tag
       Name="footer" />
     <Tag
-      Name="MadCap|relationshipsHeading">
-      <Class
-        Name="task" />
-      <Class
-        Name="reference" />
-      <Class
-        Name="concept" />
-    </Tag>
+      Name="header" />
     <Tag
-      Name="MadCap|relationshipsProxy" />
+      Name="article" />
     <Tag
-      Name="MadCap|relationshipsItem" />
+      Name="button" />
     <Tag
       Name="madcapEditorBehavior" />
     <Tag
@@ -332,13 +340,9 @@
     <Tag
       Name="var" />
     <Tag
-      Name="article" />
-    <Tag
       Name="aside" />
     <Tag
       Name="canvas" />
-    <Tag
-      Name="header" />
     <Tag
       Name="nav" />
     <Tag
@@ -375,8 +379,6 @@
       Name="noframes" />
     <Tag
       Name="colgroup" />
-    <Tag
-      Name="button" />
     <Tag
       Name="s" />
     <Tag

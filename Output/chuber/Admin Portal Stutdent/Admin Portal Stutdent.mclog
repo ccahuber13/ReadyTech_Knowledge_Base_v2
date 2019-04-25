@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated Admin Portal Stutdent.fltar" Date="2019-04-22T15:47:35.8161623-07:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated Admin Portal Stutdent.fltar" Date="2019-04-24T16:30:52.7984310-07:00">
     <Messages>Compiling target Admin Portal Stutdent...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: Default.Content

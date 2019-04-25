@@ -92,12 +92,12 @@
 
 	.off-canvas
 	{
-		background-color: #f7f7f7;
+		background-color: #f9f9f9;
 	}
 
 	.off-canvas ul ul
 	{
-		background-color: #f7f7f7;
+		background-color: #f9f9f9;
 	}
 
 	ul.off-canvas-list li a
@@ -107,57 +107,57 @@
 
 	ul.off-canvas-list ul > li > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul > li > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a
 	{
-		
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li a.selected
@@ -187,8 +187,8 @@
 
 	.title-bar .menu-icon span
 	{
-		background: transparent url('Images/Menu.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
+		background: transparent url('Images/menu_5.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/menu_5.png') no-repeat center center;
 	}
 
 	nav.title-bar .menu-icon

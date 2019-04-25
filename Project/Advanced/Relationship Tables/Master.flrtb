@@ -13,16 +13,13 @@
   <relrow>
     <relcell
       collection-type="unordered"
-      linking="normal">
-      <topicref
-        href="/Content/Products/Instructor-Led-Portal/instructor_led_portal_home.htm" />
-    </relcell>
+      linking="normal"> </relcell>
     <relcell></relcell>
     <relcell
       collection-type="unordered"
       linking="normal">
       <topicref
-        href="/Content/Products/Admin-Portal/admin_portal_home.htm" />
+        href="/Content/Products/Admin-Portal/AP_Home.htm" />
     </relcell>
   </relrow>
 </reltable>

@@ -11,8 +11,6 @@
     <Link
       Url="Project/Advanced/File Tags/Product.flfts" />
     <Link
-      Url="Project/ConditionTagSets/Default.flcts" />
-    <Link
       Url="Content/Resources/master_pages/home.flmsp" />
     <Link
       Url="Project/VariableSets/global_var.flvar" />
@@ -22,8 +20,6 @@
   <LongLinks>
     <Link
       Url="Project/Advanced/File Tags/Product.flfts" />
-    <Link
-      Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Content/Resources/master_pages/home.flmsp" />
     <Link
@@ -36,17 +32,17 @@
   <Concepts>
     <ConceptCacheEntry
       Term="Instructor-Led Portal"
-      Conditions="Default.Instructor-Led Portal"
+      Conditions=""
       LocalConditions=""
       Position="9" />
     <ConceptCacheEntry
       Term="ClassManager"
-      Conditions="Default.Instructor-Led Portal"
+      Conditions=""
       LocalConditions=""
       Position="10" />
     <ConceptCacheEntry
       Term="SaaS Labs"
-      Conditions="Default.Instructor-Led Portal"
+      Conditions=""
       LocalConditions=""
       Position="11" />
   </Concepts>
@@ -56,10 +52,7 @@
     <Variable
       Name="global_var.kb-instructorLedPortalTitle" />
   </Variables>
-  <FileConditions>
-    <Condition
-      Tag="Default.Instructor-Led Portal" />
-  </FileConditions>
+  <FileConditions />
   <FileTags>
     <Tag
       Name="File Tags/Product.product_landing_page" />
@@ -70,10 +63,7 @@
     <Tag
       Name="File Tags/Product.SaaS Labs" />
   </FileTags>
-  <AllConditions>
-    <Condition
-      Tag="Default.Instructor-Led Portal" />
-  </AllConditions>
+  <AllConditions />
   <Stylesheets>
     <Url
       Source="Content/Resources/css/styles.css" />

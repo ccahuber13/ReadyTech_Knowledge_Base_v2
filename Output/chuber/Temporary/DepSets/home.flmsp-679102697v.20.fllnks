@@ -12,6 +12,8 @@
     <Link
       Url="https://fonts.googleapis.com/css" />
     <Link
+      Url="Content/Resources/js/rt_script.js" />
+    <Link
       Url="Project/TOCs/Admin Portal/AP Documents.fltoc" />
     <Link
       Url="Content/Resources/snippets/rt-footer.flsnp" />
@@ -23,6 +25,8 @@
       Url="https://use.fontawesome.com/releases/v5.8.1/css/all.css" />
     <Link
       Url="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" />
+    <Link
+      Url="Content/Resources/js/rt_script.js" />
     <Link
       Url="Project/TOCs/Admin Portal/AP Documents.fltoc" />
     <Link

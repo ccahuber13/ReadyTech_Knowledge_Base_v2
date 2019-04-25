@@ -16,7 +16,7 @@
 		display: block;
 		height: 100%;
 		overflow-x: hidden;
-		background-color: #f7f7f7;
+		background-color: #f9f9f9;
 	}
 
 	/* Foundation Overrides */
@@ -52,8 +52,8 @@
 	{
 		background-position: center top;
 		background-repeat: no-repeat;
-		padding-top: 15px;
-		padding-bottom: 15px;
+		padding-top: 10px;
+		padding-bottom: 10px;
 		background-color: #004276;
 	}
 
@@ -92,14 +92,16 @@
 		height: 48px;
 		width: 48px;
 		display: block;
-		background: transparent url('Images/Menu.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
+		background: transparent url('Images/menu_5.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/menu_5.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
 	{
 		background-repeat: no-repeat;
 		background-position: center center;
+		border-top-right-radius: 0px;
+		border-bottom-right-radius: 0px;
 	}
 
 	.search-bar .search-filter
@@ -141,34 +143,34 @@
 
 	ul.off-canvas-list li a:hover
 	{
-		color: #000000;
-		font-weight: bold;
-		background-color: #dfdfdf;
+		color: #f9951d;
+		font-weight: normal;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a:hover
 	{
-		background-color: #dfdfdf;
+		background-color: transparent;
 	}
 
 	.off-canvas ul.off-canvas-list li.is-drilldown-submenu-parent > a:after
@@ -183,10 +185,17 @@
 
 	ul.off-canvas-list li a
 	{
-		border-bottom: solid 0px #262626;
+		border-right: solid 0px #dddddd;
+		border-bottom: solid 0px #dddddd;
+		border-left: solid 0px #dddddd;
 		color: #000000;
-		font-size: 1rem;
+		font-family: Roboto;
+		font-size: 0.9rem;
 		line-height: 1rem;
+		text-indent: 0px;
+		white-space: normal;
+		margin-left: 0px;
+		margin-bottom: -8px;
 	}
 
 	ul.off-canvas-accordion ul > li > a
@@ -284,37 +293,58 @@
 
 	.off-canvas ul ul
 	{
-		background-color: #f7f7f7;
+		background-color: #f9f9f9;
 	}
 
 	ul.off-canvas-list ul > li > a
 	{
+		line-height: 1rem;
+		text-indent: 0px;
 		margin-left: 1em;
+		margin-top: 0px;
+		margin-bottom: -8px;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul > li > a
 	{
 		margin-left: 2em;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul > li > a
 	{
 		margin-left: 3em;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list ul ul ul ul > li > a
 	{
 		margin-left: 4em;
+		background-color: transparent;
 	}
 
 	ul.off-canvas-list li.js-drilldown-back > a
 	{
-		
+		background-color: transparent;
+	}
+
+	ul.off-canvas-list li.is-accordion-submenu-parent > a span.submenu-toggle-container
+	{
+		width: 2em;
 	}
 
 	ul.off-canvas-list li.is-accordion-submenu-parent > a span.submenu-toggle
 	{
-		border-top-color: #a1a8ac;
+		border-top-color: #aaa;
+		border-top-width: 6px;
+		border-right-width: 6px;
+		border-left-width: 6px;
+	}
+
+	ul.off-canvas-list li.is-accordion-submenu-parent > a span.submenu-toggle:hover
+	{
+		
 	}
 
 	ul.off-canvas-list li a.selected
@@ -480,6 +510,10 @@
 
 	.search-bar .search-field
 	{
+		border-top-left-radius: 0px;
+		border-top-right-radius: 0px;
+		border-bottom-right-radius: 0px;
+		border-bottom-left-radius: 0px;
 		background-color: #42617a;
 		padding-right: 75px;
 	}

@@ -1,91 +1,63 @@
-@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
 /*<meta />*/
 
-body
-{
-	font-family: Arial;
+.home-heading {
+	text-align: center;
 }
 
-h1
-{
-	font-weight: bold;
-	font-size: 24.0pt;
+
+.home-container {
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-top:2rem;
 }
 
-h2
-{
-	font-weight: bold;
-	font-size: 18.0pt;
+
+
+
+
+.home-container__item {
+    /* width: 300px; */
+	flex-basis: 20rem;
+    /* min-width: 10rem; */
+    height: 140px;
+    border: 1px solid #ddd;
+    margin-bottom: 2rem;
+	transition: ease-in-out  .5s;
+	-webkit-transition: ease-in-out  .3s;
 }
 
-h3
-{
-	font-weight: bold;
-	font-size: 14.0pt;
+.home-container__item:hover {
+	box-shadow: 0px 5px 15px rgba(0, 0, 0, .3);
+
 }
 
-h4
-{
-	font-weight: bold;
-	font-size: 12.0pt;
+.home-container__faq {
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top:2rem;
+
 }
 
-h5
-{
-	font-weight: bold;
-	font-size: 10.0pt;
+.home-container__faq--item {
+    /* width: 300px; */
+	flex-basis: 100%;
+    /* min-width: 10rem; */
+    min-height:fit-content;
+    border: 1px solid #ddd;
+    margin-bottom: 2rem;
+	transition: ease-in-out  .5s;
+	-webkit-transition: ease-in-out  .3s;
 }
 
-h6
-{
-	font-weight: bold;
-	font-size: 8.0pt;
-}
+.home-container__faq--header
 
-p
-{
-	font-size: 12.0pt;
-	margin-top: 0pt;
-	margin-bottom: 0pt;
-}
 
-ol,
-ul
-{
-	margin-top: 0px;
-	margin-bottom: 0px;
-}
-
-img
-{
-	border: none;
-}
-
-a.Popup
+@media screen and (max-width: 1279px)
 {
 	
-}
 
-MadCap|expandingHead
-{
-	font-style: italic;
-	font-weight: normal;
-	cursor: hand;
-	text-decoration: none;
-	color: #006600;
-}
 
-MadCap|expandingBody
-{
-	color: #777777;
-	font-style: italic;
 }
-
-MadCap|dropDownHotspot
-{
-	cursor: hand;
-	font-style: italic;
-	text-decoration: none;
-	color: #006600;
-}
-

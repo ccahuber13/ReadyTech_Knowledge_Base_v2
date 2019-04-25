@@ -355,12 +355,52 @@ a.glossaryTerm
 	height: 0;
 }
 
+.dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+	margin: 0px 0px 0px 5px;
+}
+
+.dropDownHotspot:link
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+	margin: 0px 0px 0px 5px;
+}
+
+.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('DropDownOpen.gif');
+	padding-left: 1px;
+	padding-right: 0;
+}
+
+.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('DropDownClosed.gif');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.dropDownHead
+{
+	text-decoration: none;
+}
+
 div.MCBreadcrumbsBox_0
 {
 	padding-top: 0.5rem;
 	font-size: 9pt;
 	color: #a9a9a9;
 	border-bottom-color: #ddd;
+	letter-spacing: .3px;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
 	padding-bottom: 10px;
